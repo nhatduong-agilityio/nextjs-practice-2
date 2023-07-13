@@ -1,0 +1,8 @@
+export const REQUIRED = 'This field is required.'
+export const USERNAME_NOT_EXIST = 'Username does not exist.'
+export const INVALID_USERNAME_FORMAT = 'Invalid username format.'
+export const INVALID_PASSWORD_FORMAT = 'Invalid password format.'
+export const INVALID_PASSWORD = 'Invalid password.'
+export const SERVER_ERROR = 'Something went wrong. Please try again!'
+export const API_ERROR_NOT_FOUND = '404 - Page Not Found!'
+export const TIME_DUPLICATED_ERROR = 'You made a reservation for this time slot.'

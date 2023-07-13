@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmptyListProducts render Should EmptyListProducts match Snapshot 1`] = `
+<div>
+  <div
+    class="css-6cgguy"
+  >
+    <h2
+      class="chakra-heading css-1fhah9k"
+    >
+      No products found with 
+    </h2>
+    <p
+      class="chakra-text css-ct6vz2"
+    >
+      Please try a different search term or category.
+    </p>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

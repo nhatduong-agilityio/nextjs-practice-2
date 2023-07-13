@@ -1,0 +1,1548 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Should Product match snapshot 1`] = `
+<div>
+  <div
+    class="css-4dyaqz"
+  >
+    <div
+      class="chakra-stack css-blzuji"
+    >
+      <h2
+        class="chakra-heading css-4t11uo"
+      >
+        Product
+      </h2>
+      <button
+        class="chakra-button css-10zc6up"
+        style="padding-inline: 0;"
+        type="button"
+      >
+        Filter
+      </button>
+    </div>
+    <div
+      class="css-kav0bz"
+    >
+      <div
+        class="css-su4wmr"
+      >
+        <div
+          class="chakra-stack css-ppmla1"
+          style="margin: 0px;"
+        >
+          <div
+            class="chakra-form-control css-r4izcz"
+            role="group"
+          >
+            <label
+              class="chakra-form__label css-tdupph"
+              for="field-:r0:"
+              id="field-:r0:-label"
+            >
+              Filter
+            </label>
+            <div
+              class="chakra-stack css-1v4uoso"
+              style="margin: 0px;"
+            >
+              <button
+                class="chakra-button css-l43bjg"
+                style="padding-inline: 0;"
+                type="button"
+              >
+                color
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-pfz1im"
+                    focusable="false"
+                    viewBox="0 0 8 13"
+                  >
+                    <path
+                      d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <div
+                class="chakra-stack css-19pl6ik"
+                style="margin: 0px;"
+              >
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="Blue"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="blue"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    Blue
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="Purple"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="purple"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    Purple
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="Red"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="red"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    Red
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="Orange"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="orange"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    Orange
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="Yellow"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="yellow"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    Yellow
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="Green"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="green"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    Green
+                  </p>
+                </label>
+              </div>
+            </div>
+            <div
+              class="chakra-stack css-1v4uoso"
+              style="margin: 0px;"
+            >
+              <button
+                class="chakra-button css-l43bjg"
+                style="padding-inline: 0;"
+                type="button"
+              >
+                rating
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-pfz1im"
+                    focusable="false"
+                    viewBox="0 0 8 13"
+                  >
+                    <path
+                      d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <div
+                class="chakra-stack css-19pl6ik"
+                style="margin: 0px;"
+              >
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="1 Star Up"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="1"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    1 Star Up
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="2 Star Up"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="2"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    2 Star Up
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="3 Star Up"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="3"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    3 Star Up
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="4 Star Up"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="4"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    4 Star Up
+                  </p>
+                </label>
+                <label
+                  class="css-d3wqq2"
+                >
+                  <input
+                    aria-disabled="false"
+                    aria-invalid="false"
+                    hidden=""
+                    id="field-:r0:"
+                    name="5 Star"
+                    style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                    type="checkbox"
+                    value="5"
+                  />
+                  <div
+                    aria-hidden="true"
+                    class="css-i2vche"
+                  />
+                  <p
+                    class="chakra-text css-5l0nl"
+                  >
+                    5 Star
+                  </p>
+                </label>
+              </div>
+            </div>
+            <div
+              class="chakra-stack css-1v4uoso"
+              style="margin: 0px;"
+            >
+              <button
+                class="chakra-button css-l43bjg"
+                style="padding-inline: 0;"
+                type="button"
+              >
+                price
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-pfz1im"
+                    focusable="false"
+                    viewBox="0 0 8 13"
+                  >
+                    <path
+                      d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <div
+                class="chakra-stack css-19pl6ik"
+                style="margin: 0px;"
+              >
+                <form
+                  style="margin-top: 0px; width: 100%;"
+                >
+                  <div
+                    class="chakra-form-control css-1wvres7"
+                    role="group"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="chakra-input__group css-bx0blc"
+                      data-group="true"
+                    >
+                      <div
+                        class="chakra-input__left-element css-1vbpnog"
+                      >
+                        <span
+                          class="chakra-text css-kcidfd"
+                        >
+                          Price
+                        </span>
+                      </div>
+                      <input
+                        class="chakra-input css-ueq02j"
+                        id="field-:r1:"
+                        placeholder="Maximum Price"
+                        type="number"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="chakra-form-control css-1wvres7"
+                    role="group"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="chakra-input__group css-bx0blc"
+                      data-group="true"
+                    >
+                      <div
+                        class="chakra-input__left-element css-1vbpnog"
+                      >
+                        <span
+                          class="chakra-text css-kcidfd"
+                        >
+                          Price
+                        </span>
+                      </div>
+                      <input
+                        class="chakra-input css-ueq02j"
+                        id="field-:r2:"
+                        placeholder="Minimum Price"
+                        type="number"
+                      />
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div
+              class="chakra-stack css-1v4uoso"
+              style="margin: 0px;"
+            >
+              <button
+                class="chakra-button css-l43bjg"
+                style="padding-inline: 0;"
+                type="button"
+              >
+                category
+                <span
+                  class="chakra-button__icon css-1hzyiq5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-pfz1im"
+                    focusable="false"
+                    viewBox="0 0 8 13"
+                  >
+                    <path
+                      d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                    />
+                  </svg>
+                </span>
+              </button>
+              <div
+                class="chakra-stack css-19pl6ik"
+                style="margin: 0px;"
+              >
+                <div
+                  class="chakra-stack css-1v4uoso"
+                  style="margin: 0px;"
+                >
+                  <button
+                    class="chakra-button css-lbmdfj"
+                    style="padding-inline: 0;"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-pfz1im"
+                        focusable="false"
+                        style="margin-right: 13px;"
+                        viewBox="0 0 8 13"
+                      >
+                        <path
+                          d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                        />
+                      </svg>
+                    </span>
+                    chair
+                  </button>
+                  <div
+                    class="chakra-stack css-19pl6ik"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Chair"
+                      >
+                        <button
+                          class="chakra-button css-1nzk6tf"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Chair
+                        </button>
+                      </a>
+                    </div>
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Office+Chair"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Office Chair
+                        </button>
+                      </a>
+                    </div>
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Family+Chair"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Family Chair
+                        </button>
+                      </a>
+                    </div>
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Reading+Chair"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Reading Chair
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="chakra-stack css-1v4uoso"
+                  style="margin: 0px;"
+                >
+                  <button
+                    class="chakra-button css-lbmdfj"
+                    style="padding-inline: 0;"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-pfz1im"
+                        focusable="false"
+                        style="margin-right: 13px;"
+                        viewBox="0 0 8 13"
+                      >
+                        <path
+                          d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                        />
+                      </svg>
+                    </span>
+                    dest
+                  </button>
+                  <div
+                    class="chakra-stack css-19pl6ik"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Dest"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Dest
+                        </button>
+                      </a>
+                    </div>
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Office+dest"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Office dest
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="chakra-stack css-1v4uoso"
+                  style="margin: 0px;"
+                >
+                  <button
+                    class="chakra-button css-lbmdfj"
+                    style="padding-inline: 0;"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-pfz1im"
+                        focusable="false"
+                        style="margin-right: 13px;"
+                        viewBox="0 0 8 13"
+                      >
+                        <path
+                          d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                        />
+                      </svg>
+                    </span>
+                    best
+                  </button>
+                  <div
+                    class="chakra-stack css-19pl6ik"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Best"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Best
+                        </button>
+                      </a>
+                    </div>
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Springbed"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Springbed
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="chakra-stack css-1v4uoso"
+                  style="margin: 0px;"
+                >
+                  <button
+                    class="chakra-button css-lbmdfj"
+                    style="padding-inline: 0;"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-pfz1im"
+                        focusable="false"
+                        style="margin-right: 13px;"
+                        viewBox="0 0 8 13"
+                      >
+                        <path
+                          d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                        />
+                      </svg>
+                    </span>
+                    carpet
+                  </button>
+                  <div
+                    class="chakra-stack css-19pl6ik"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Carpet"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Carpet
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="chakra-stack css-1v4uoso"
+                  style="margin: 0px;"
+                >
+                  <button
+                    class="chakra-button css-lbmdfj"
+                    style="padding-inline: 0;"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-pfz1im"
+                        focusable="false"
+                        style="margin-right: 13px;"
+                        viewBox="0 0 8 13"
+                      >
+                        <path
+                          d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                        />
+                      </svg>
+                    </span>
+                    sofa
+                  </button>
+                  <div
+                    class="chakra-stack css-19pl6ik"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Sofa"
+                      >
+                        <button
+                          class="chakra-button css-1nzk6tf"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Sofa
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="chakra-stack css-1v4uoso"
+                  style="margin: 0px;"
+                >
+                  <button
+                    class="chakra-button css-lbmdfj"
+                    style="padding-inline: 0;"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-pfz1im"
+                        focusable="false"
+                        style="margin-right: 13px;"
+                        viewBox="0 0 8 13"
+                      >
+                        <path
+                          d="M0.612558 0.868804C0.68513 0.796049 0.771341 0.738325 0.866256 0.69894C0.96117 0.659555 1.06292 0.639282 1.16568 0.639282C1.26845 0.639282 1.3702 0.659555 1.46511 0.69894C1.56003 0.738325 1.64624 0.796049 1.71881 0.868804L6.91256 6.06255C6.9705 6.12038 7.01647 6.18906 7.04783 6.26466C7.07919 6.34027 7.09534 6.42132 7.09534 6.50318C7.09534 6.58503 7.07919 6.66609 7.04783 6.74169C7.01647 6.8173 6.9705 6.88598 6.91256 6.9438L1.71881 12.1376C1.41256 12.4438 0.918808 12.4438 0.612558 12.1376C0.306308 11.8313 0.306308 11.3376 0.612558 11.0313L5.13756 6.50005L0.606309 1.9688C0.306309 1.6688 0.306308 1.1688 0.612558 0.868804Z"
+                        />
+                      </svg>
+                    </span>
+                    cupboard
+                  </button>
+                  <div
+                    class="chakra-stack css-19pl6ik"
+                    style="margin: 0px;"
+                  >
+                    <div
+                      class="css-ie9luo"
+                    >
+                      <a
+                        href="/product?category=Cupboard"
+                      >
+                        <button
+                          class="chakra-button css-1kezzwz"
+                          style="padding-inline: 0;"
+                          type="button"
+                        >
+                          Cupboard
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-1ad504j"
+      >
+        <div
+          class="css-txa05w"
+        >
+          <div
+            class="chakra-card css-1fnaag1"
+          >
+            <div
+              class="chakra-card__header css-e3ulnx"
+            >
+              <div
+                class="css-rszsdl"
+              >
+                <button
+                  aria-label="wishlist-button"
+                  class="chakra-button css-jvwple"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-cjaec7"
+                    focusable="false"
+                    viewBox="0 0 30 30"
+                  >
+                    <circle
+                      cx="15"
+                      cy="15"
+                      fill="white"
+                      r="15"
+                      stroke-width="0"
+                    />
+                    <g
+                      clip-path="url(#clip0_187_701)"
+                    >
+                      <path
+                        d="M12.5 9.0625L10.625 9.6875L8.75 10.9375V15L12.1875 18.4375L15 20.625L19.375 16.875L20.9375 14.375V11.5625L19.6875 9.6875L17.1875 9.375L15.3125 10.9375L14.6875 10.3125L12.5 9.0625Z"
+                      />
+                      <path
+                        d="M15.7805 9.39434C15.4958 9.61931 15.2349 9.8863 15 10.1914C14.7652 9.88628 14.5042 9.61931 14.2196 9.39436L14.2196 9.39435C13.5541 8.86841 12.7946 8.6 11.9662 8.6C10.8617 8.6 9.84462 9.05247 9.10443 9.8728L9.10442 9.87281C8.37363 10.6828 7.975 11.7848 7.975 12.9724C7.975 14.2028 8.4256 15.3228 9.37225 16.49L9.37226 16.49C10.2129 17.5265 11.4176 18.5755 12.7962 19.776L12.8029 19.7818L12.804 19.7828L12.8053 19.7839L12.8053 19.7839L12.8065 19.7849C13.279 20.1964 13.8138 20.6621 14.3684 21.1577C14.5427 21.3137 14.767 21.4 15 21.4C15.2329 21.4 15.4572 21.3137 15.6314 21.1579C16.1873 20.6612 16.723 20.1947 17.1964 19.7826L17.1964 19.7826L17.2053 19.7748C18.5833 18.5748 19.7874 17.5262 20.6278 16.4899C21.5745 15.3228 22.025 14.2028 22.025 12.9724C22.025 11.7849 21.6265 10.6828 20.8957 9.87281L20.8957 9.8728C20.1555 9.05247 19.1383 8.6 18.0339 8.6C17.2055 8.6 16.446 8.86841 15.7805 9.39434ZM15.7805 9.39434L15.8735 9.51204M15.7805 9.39434L15.8735 9.51204M15.8735 9.51204C16.5133 9.00641 17.2402 8.75 18.0339 8.75C19.0958 8.75 20.0725 9.18445 20.7843 9.97329L15.0933 10.3165C15.3278 10.0063 15.5889 9.73699 15.8735 9.51204ZM9.91923 10.6316C10.4483 10.0454 11.1742 9.72303 11.9662 9.72303C12.5423 9.72303 13.0709 9.90941 13.5408 10.2807C13.9623 10.6137 14.2586 11.0376 14.4337 11.3376L14.4338 11.3376C14.5528 11.5414 14.7648 11.6655 15 11.6655C15.2352 11.6655 15.4472 11.5414 15.5662 11.3376L15.4367 11.262L15.5662 11.3376C15.7415 11.0376 16.0378 10.6138 16.4592 10.2807C16.9291 9.90942 17.4577 9.72303 18.0339 9.72303C18.8258 9.72303 19.5518 10.0454 20.0808 10.6316C20.6187 11.2278 20.9196 12.0576 20.9196 12.9724C20.9196 13.9284 20.5745 14.7898 19.7748 15.7759C18.9971 16.7348 17.837 17.7455 16.477 18.93C16.0299 19.3191 15.5264 19.7576 14.999 20.2258C14.4746 19.7585 13.9719 19.3207 13.5259 18.9323L13.5246 18.9313L13.5234 18.9302C13.5232 18.93 13.523 18.9298 13.5227 18.9297C12.1628 17.7454 11.0029 16.7347 10.2253 15.7759L10.2253 15.7759C9.42554 14.7898 9.08035 13.9284 9.08035 12.9724C9.08035 12.0576 9.3813 11.2278 9.91923 10.6316ZM9.91923 10.6316L9.80787 10.5311M9.91923 10.6316L9.80787 10.5311M9.80787 10.5311C10.3654 9.91326 11.1319 9.57303 11.9662 9.57303C12.5772 9.57303 13.1384 9.77155 13.6338 10.163M9.80787 10.5311C9.24202 11.1583 8.93035 12.0253 8.93035 12.9724C8.93035 13.9718 9.29384 14.8656 10.1088 15.8704L13.6338 10.163M13.6338 10.163C14.0755 10.512 14.3831 10.9532 14.5633 11.262L13.6338 10.163ZM11.9662 8.75C12.7599 8.75 13.4868 9.00641 14.1266 9.51204L12.9025 19.6697C11.5173 18.4634 10.3211 17.4217 9.48875 16.3955C8.55836 15.2484 8.125 14.1607 8.125 12.9724C8.125 11.818 8.51241 10.7529 9.21579 9.97329C9.92757 9.18445 10.9042 8.75 11.9662 8.75Z"
+                        stroke-width="0.3"
+                      />
+                    </g>
+                    <defs>
+                      <clippath
+                        id="clip0_187_701"
+                      >
+                        <rect
+                          fill="white"
+                          height="15"
+                          transform="translate(7.5 7.5)"
+                          width="15"
+                        />
+                      </clippath>
+                    </defs>
+                  </svg>
+                </button>
+              </div>
+              <a
+                href="/product/dacfd95b-67b8-4290-a2bd-fcba2a7c4ef8"
+              >
+                <div
+                  class="css-rsaa23"
+                >
+                  <span
+                    style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                  >
+                    <img
+                      alt="Picture of Full set Grey Sofa With Pillows"
+                      data-nimg="fill"
+                      decoding="async"
+                      sizes="100vw"
+                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div
+              class="chakra-card__body css-f99mjs"
+            >
+              <div
+                class="css-0"
+              >
+                <a
+                  href="/product/dacfd95b-67b8-4290-a2bd-fcba2a7c4ef8"
+                >
+                  <h2
+                    class="chakra-heading css-10zd33"
+                  >
+                    Green Slepper Sofa
+                  </h2>
+                </a>
+                <div
+                  class="css-1hzkocu"
+                >
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <p
+                    class="chakra-text css-1sm3jcj"
+                  >
+                    (
+                    400
+                     Sell)
+                  </p>
+                </div>
+                <div
+                  class="css-hdz8n1"
+                >
+                  <p
+                    class="chakra-text css-33w20q"
+                  >
+                    $
+                    120
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="chakra-card css-1fnaag1"
+          >
+            <div
+              class="chakra-card__header css-e3ulnx"
+            >
+              <div
+                class="css-rszsdl"
+              >
+                <button
+                  aria-label="wishlist-button"
+                  class="chakra-button css-jvwple"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-cjaec7"
+                    focusable="false"
+                    viewBox="0 0 30 30"
+                  >
+                    <circle
+                      cx="15"
+                      cy="15"
+                      fill="white"
+                      r="15"
+                      stroke-width="0"
+                    />
+                    <g
+                      clip-path="url(#clip0_187_701)"
+                    >
+                      <path
+                        d="M12.5 9.0625L10.625 9.6875L8.75 10.9375V15L12.1875 18.4375L15 20.625L19.375 16.875L20.9375 14.375V11.5625L19.6875 9.6875L17.1875 9.375L15.3125 10.9375L14.6875 10.3125L12.5 9.0625Z"
+                      />
+                      <path
+                        d="M15.7805 9.39434C15.4958 9.61931 15.2349 9.8863 15 10.1914C14.7652 9.88628 14.5042 9.61931 14.2196 9.39436L14.2196 9.39435C13.5541 8.86841 12.7946 8.6 11.9662 8.6C10.8617 8.6 9.84462 9.05247 9.10443 9.8728L9.10442 9.87281C8.37363 10.6828 7.975 11.7848 7.975 12.9724C7.975 14.2028 8.4256 15.3228 9.37225 16.49L9.37226 16.49C10.2129 17.5265 11.4176 18.5755 12.7962 19.776L12.8029 19.7818L12.804 19.7828L12.8053 19.7839L12.8053 19.7839L12.8065 19.7849C13.279 20.1964 13.8138 20.6621 14.3684 21.1577C14.5427 21.3137 14.767 21.4 15 21.4C15.2329 21.4 15.4572 21.3137 15.6314 21.1579C16.1873 20.6612 16.723 20.1947 17.1964 19.7826L17.1964 19.7826L17.2053 19.7748C18.5833 18.5748 19.7874 17.5262 20.6278 16.4899C21.5745 15.3228 22.025 14.2028 22.025 12.9724C22.025 11.7849 21.6265 10.6828 20.8957 9.87281L20.8957 9.8728C20.1555 9.05247 19.1383 8.6 18.0339 8.6C17.2055 8.6 16.446 8.86841 15.7805 9.39434ZM15.7805 9.39434L15.8735 9.51204M15.7805 9.39434L15.8735 9.51204M15.8735 9.51204C16.5133 9.00641 17.2402 8.75 18.0339 8.75C19.0958 8.75 20.0725 9.18445 20.7843 9.97329L15.0933 10.3165C15.3278 10.0063 15.5889 9.73699 15.8735 9.51204ZM9.91923 10.6316C10.4483 10.0454 11.1742 9.72303 11.9662 9.72303C12.5423 9.72303 13.0709 9.90941 13.5408 10.2807C13.9623 10.6137 14.2586 11.0376 14.4337 11.3376L14.4338 11.3376C14.5528 11.5414 14.7648 11.6655 15 11.6655C15.2352 11.6655 15.4472 11.5414 15.5662 11.3376L15.4367 11.262L15.5662 11.3376C15.7415 11.0376 16.0378 10.6138 16.4592 10.2807C16.9291 9.90942 17.4577 9.72303 18.0339 9.72303C18.8258 9.72303 19.5518 10.0454 20.0808 10.6316C20.6187 11.2278 20.9196 12.0576 20.9196 12.9724C20.9196 13.9284 20.5745 14.7898 19.7748 15.7759C18.9971 16.7348 17.837 17.7455 16.477 18.93C16.0299 19.3191 15.5264 19.7576 14.999 20.2258C14.4746 19.7585 13.9719 19.3207 13.5259 18.9323L13.5246 18.9313L13.5234 18.9302C13.5232 18.93 13.523 18.9298 13.5227 18.9297C12.1628 17.7454 11.0029 16.7347 10.2253 15.7759L10.2253 15.7759C9.42554 14.7898 9.08035 13.9284 9.08035 12.9724C9.08035 12.0576 9.3813 11.2278 9.91923 10.6316ZM9.91923 10.6316L9.80787 10.5311M9.91923 10.6316L9.80787 10.5311M9.80787 10.5311C10.3654 9.91326 11.1319 9.57303 11.9662 9.57303C12.5772 9.57303 13.1384 9.77155 13.6338 10.163M9.80787 10.5311C9.24202 11.1583 8.93035 12.0253 8.93035 12.9724C8.93035 13.9718 9.29384 14.8656 10.1088 15.8704L13.6338 10.163M13.6338 10.163C14.0755 10.512 14.3831 10.9532 14.5633 11.262L13.6338 10.163ZM11.9662 8.75C12.7599 8.75 13.4868 9.00641 14.1266 9.51204L12.9025 19.6697C11.5173 18.4634 10.3211 17.4217 9.48875 16.3955C8.55836 15.2484 8.125 14.1607 8.125 12.9724C8.125 11.818 8.51241 10.7529 9.21579 9.97329C9.92757 9.18445 10.9042 8.75 11.9662 8.75Z"
+                        stroke-width="0.3"
+                      />
+                    </g>
+                    <defs>
+                      <clippath
+                        id="clip0_187_701"
+                      >
+                        <rect
+                          fill="white"
+                          height="15"
+                          transform="translate(7.5 7.5)"
+                          width="15"
+                        />
+                      </clippath>
+                    </defs>
+                  </svg>
+                </button>
+              </div>
+              <a
+                href="/product/7503a135-a2be-4ced-8882-ba1e535a4c5e"
+              >
+                <div
+                  class="css-rsaa23"
+                >
+                  <span
+                    style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                  >
+                    <img
+                      alt="Picture of Full set Grey Sofa With Pillow"
+                      data-nimg="fill"
+                      decoding="async"
+                      sizes="100vw"
+                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div
+              class="chakra-card__body css-f99mjs"
+            >
+              <div
+                class="css-0"
+              >
+                <a
+                  href="/product/7503a135-a2be-4ced-8882-ba1e535a4c5e"
+                >
+                  <h2
+                    class="chakra-heading css-10zd33"
+                  >
+                    Yellow Chair X Banana Kitty
+                  </h2>
+                </a>
+                <div
+                  class="css-1hzkocu"
+                >
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <p
+                    class="chakra-text css-1sm3jcj"
+                  >
+                    (
+                    400
+                     Sell)
+                  </p>
+                </div>
+                <div
+                  class="css-hdz8n1"
+                >
+                  <p
+                    class="chakra-text css-33w20q"
+                  >
+                    $
+                    412.41
+                  </p>
+                  <del
+                    class="chakra-text css-bd8jqh"
+                  >
+                    $
+                    699
+                  </del>
+                  <p
+                    class="chakra-text css-cntrqi"
+                  >
+                    -
+                    41
+                    %
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="chakra-card css-1fnaag1"
+          >
+            <div
+              class="chakra-card__header css-e3ulnx"
+            >
+              <div
+                class="css-rszsdl"
+              >
+                <button
+                  aria-label="wishlist-button"
+                  class="chakra-button css-jvwple"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-cjaec7"
+                    focusable="false"
+                    viewBox="0 0 30 30"
+                  >
+                    <circle
+                      cx="15"
+                      cy="15"
+                      fill="white"
+                      r="15"
+                      stroke-width="0"
+                    />
+                    <g
+                      clip-path="url(#clip0_187_701)"
+                    >
+                      <path
+                        d="M12.5 9.0625L10.625 9.6875L8.75 10.9375V15L12.1875 18.4375L15 20.625L19.375 16.875L20.9375 14.375V11.5625L19.6875 9.6875L17.1875 9.375L15.3125 10.9375L14.6875 10.3125L12.5 9.0625Z"
+                      />
+                      <path
+                        d="M15.7805 9.39434C15.4958 9.61931 15.2349 9.8863 15 10.1914C14.7652 9.88628 14.5042 9.61931 14.2196 9.39436L14.2196 9.39435C13.5541 8.86841 12.7946 8.6 11.9662 8.6C10.8617 8.6 9.84462 9.05247 9.10443 9.8728L9.10442 9.87281C8.37363 10.6828 7.975 11.7848 7.975 12.9724C7.975 14.2028 8.4256 15.3228 9.37225 16.49L9.37226 16.49C10.2129 17.5265 11.4176 18.5755 12.7962 19.776L12.8029 19.7818L12.804 19.7828L12.8053 19.7839L12.8053 19.7839L12.8065 19.7849C13.279 20.1964 13.8138 20.6621 14.3684 21.1577C14.5427 21.3137 14.767 21.4 15 21.4C15.2329 21.4 15.4572 21.3137 15.6314 21.1579C16.1873 20.6612 16.723 20.1947 17.1964 19.7826L17.1964 19.7826L17.2053 19.7748C18.5833 18.5748 19.7874 17.5262 20.6278 16.4899C21.5745 15.3228 22.025 14.2028 22.025 12.9724C22.025 11.7849 21.6265 10.6828 20.8957 9.87281L20.8957 9.8728C20.1555 9.05247 19.1383 8.6 18.0339 8.6C17.2055 8.6 16.446 8.86841 15.7805 9.39434ZM15.7805 9.39434L15.8735 9.51204M15.7805 9.39434L15.8735 9.51204M15.8735 9.51204C16.5133 9.00641 17.2402 8.75 18.0339 8.75C19.0958 8.75 20.0725 9.18445 20.7843 9.97329L15.0933 10.3165C15.3278 10.0063 15.5889 9.73699 15.8735 9.51204ZM9.91923 10.6316C10.4483 10.0454 11.1742 9.72303 11.9662 9.72303C12.5423 9.72303 13.0709 9.90941 13.5408 10.2807C13.9623 10.6137 14.2586 11.0376 14.4337 11.3376L14.4338 11.3376C14.5528 11.5414 14.7648 11.6655 15 11.6655C15.2352 11.6655 15.4472 11.5414 15.5662 11.3376L15.4367 11.262L15.5662 11.3376C15.7415 11.0376 16.0378 10.6138 16.4592 10.2807C16.9291 9.90942 17.4577 9.72303 18.0339 9.72303C18.8258 9.72303 19.5518 10.0454 20.0808 10.6316C20.6187 11.2278 20.9196 12.0576 20.9196 12.9724C20.9196 13.9284 20.5745 14.7898 19.7748 15.7759C18.9971 16.7348 17.837 17.7455 16.477 18.93C16.0299 19.3191 15.5264 19.7576 14.999 20.2258C14.4746 19.7585 13.9719 19.3207 13.5259 18.9323L13.5246 18.9313L13.5234 18.9302C13.5232 18.93 13.523 18.9298 13.5227 18.9297C12.1628 17.7454 11.0029 16.7347 10.2253 15.7759L10.2253 15.7759C9.42554 14.7898 9.08035 13.9284 9.08035 12.9724C9.08035 12.0576 9.3813 11.2278 9.91923 10.6316ZM9.91923 10.6316L9.80787 10.5311M9.91923 10.6316L9.80787 10.5311M9.80787 10.5311C10.3654 9.91326 11.1319 9.57303 11.9662 9.57303C12.5772 9.57303 13.1384 9.77155 13.6338 10.163M9.80787 10.5311C9.24202 11.1583 8.93035 12.0253 8.93035 12.9724C8.93035 13.9718 9.29384 14.8656 10.1088 15.8704L13.6338 10.163M13.6338 10.163C14.0755 10.512 14.3831 10.9532 14.5633 11.262L13.6338 10.163ZM11.9662 8.75C12.7599 8.75 13.4868 9.00641 14.1266 9.51204L12.9025 19.6697C11.5173 18.4634 10.3211 17.4217 9.48875 16.3955C8.55836 15.2484 8.125 14.1607 8.125 12.9724C8.125 11.818 8.51241 10.7529 9.21579 9.97329C9.92757 9.18445 10.9042 8.75 11.9662 8.75Z"
+                        stroke-width="0.3"
+                      />
+                    </g>
+                    <defs>
+                      <clippath
+                        id="clip0_187_701"
+                      >
+                        <rect
+                          fill="white"
+                          height="15"
+                          transform="translate(7.5 7.5)"
+                          width="15"
+                        />
+                      </clippath>
+                    </defs>
+                  </svg>
+                </button>
+              </div>
+              <a
+                href="/product/5140d327-671f-4470-909a-8af7f60fbd10"
+              >
+                <div
+                  class="css-rsaa23"
+                >
+                  <span
+                    style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                  >
+                    <img
+                      alt="Picture of Full set Grey Sofa With Pillow"
+                      data-nimg="fill"
+                      decoding="async"
+                      sizes="100vw"
+                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div
+              class="chakra-card__body css-f99mjs"
+            >
+              <div
+                class="css-0"
+              >
+                <a
+                  href="/product/5140d327-671f-4470-909a-8af7f60fbd10"
+                >
+                  <h2
+                    class="chakra-heading css-10zd33"
+                  >
+                    Fullset Grey Sofa With Pillow
+                  </h2>
+                </a>
+                <div
+                  class="css-1hzkocu"
+                >
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <p
+                    class="chakra-text css-1sm3jcj"
+                  >
+                    (
+                    400
+                     Sell)
+                  </p>
+                </div>
+                <div
+                  class="css-hdz8n1"
+                >
+                  <p
+                    class="chakra-text css-33w20q"
+                  >
+                    $
+                    795.4
+                  </p>
+                  <del
+                    class="chakra-text css-bd8jqh"
+                  >
+                    $
+                    820
+                  </del>
+                  <p
+                    class="chakra-text css-cntrqi"
+                  >
+                    -
+                    3
+                    %
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="chakra-card css-1fnaag1"
+          >
+            <div
+              class="chakra-card__header css-e3ulnx"
+            >
+              <div
+                class="css-rszsdl"
+              >
+                <button
+                  aria-label="wishlist-button"
+                  class="chakra-button css-jvwple"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="chakra-icon css-cjaec7"
+                    focusable="false"
+                    viewBox="0 0 30 30"
+                  >
+                    <circle
+                      cx="15"
+                      cy="15"
+                      fill="white"
+                      r="15"
+                      stroke-width="0"
+                    />
+                    <g
+                      clip-path="url(#clip0_187_701)"
+                    >
+                      <path
+                        d="M12.5 9.0625L10.625 9.6875L8.75 10.9375V15L12.1875 18.4375L15 20.625L19.375 16.875L20.9375 14.375V11.5625L19.6875 9.6875L17.1875 9.375L15.3125 10.9375L14.6875 10.3125L12.5 9.0625Z"
+                      />
+                      <path
+                        d="M15.7805 9.39434C15.4958 9.61931 15.2349 9.8863 15 10.1914C14.7652 9.88628 14.5042 9.61931 14.2196 9.39436L14.2196 9.39435C13.5541 8.86841 12.7946 8.6 11.9662 8.6C10.8617 8.6 9.84462 9.05247 9.10443 9.8728L9.10442 9.87281C8.37363 10.6828 7.975 11.7848 7.975 12.9724C7.975 14.2028 8.4256 15.3228 9.37225 16.49L9.37226 16.49C10.2129 17.5265 11.4176 18.5755 12.7962 19.776L12.8029 19.7818L12.804 19.7828L12.8053 19.7839L12.8053 19.7839L12.8065 19.7849C13.279 20.1964 13.8138 20.6621 14.3684 21.1577C14.5427 21.3137 14.767 21.4 15 21.4C15.2329 21.4 15.4572 21.3137 15.6314 21.1579C16.1873 20.6612 16.723 20.1947 17.1964 19.7826L17.1964 19.7826L17.2053 19.7748C18.5833 18.5748 19.7874 17.5262 20.6278 16.4899C21.5745 15.3228 22.025 14.2028 22.025 12.9724C22.025 11.7849 21.6265 10.6828 20.8957 9.87281L20.8957 9.8728C20.1555 9.05247 19.1383 8.6 18.0339 8.6C17.2055 8.6 16.446 8.86841 15.7805 9.39434ZM15.7805 9.39434L15.8735 9.51204M15.7805 9.39434L15.8735 9.51204M15.8735 9.51204C16.5133 9.00641 17.2402 8.75 18.0339 8.75C19.0958 8.75 20.0725 9.18445 20.7843 9.97329L15.0933 10.3165C15.3278 10.0063 15.5889 9.73699 15.8735 9.51204ZM9.91923 10.6316C10.4483 10.0454 11.1742 9.72303 11.9662 9.72303C12.5423 9.72303 13.0709 9.90941 13.5408 10.2807C13.9623 10.6137 14.2586 11.0376 14.4337 11.3376L14.4338 11.3376C14.5528 11.5414 14.7648 11.6655 15 11.6655C15.2352 11.6655 15.4472 11.5414 15.5662 11.3376L15.4367 11.262L15.5662 11.3376C15.7415 11.0376 16.0378 10.6138 16.4592 10.2807C16.9291 9.90942 17.4577 9.72303 18.0339 9.72303C18.8258 9.72303 19.5518 10.0454 20.0808 10.6316C20.6187 11.2278 20.9196 12.0576 20.9196 12.9724C20.9196 13.9284 20.5745 14.7898 19.7748 15.7759C18.9971 16.7348 17.837 17.7455 16.477 18.93C16.0299 19.3191 15.5264 19.7576 14.999 20.2258C14.4746 19.7585 13.9719 19.3207 13.5259 18.9323L13.5246 18.9313L13.5234 18.9302C13.5232 18.93 13.523 18.9298 13.5227 18.9297C12.1628 17.7454 11.0029 16.7347 10.2253 15.7759L10.2253 15.7759C9.42554 14.7898 9.08035 13.9284 9.08035 12.9724C9.08035 12.0576 9.3813 11.2278 9.91923 10.6316ZM9.91923 10.6316L9.80787 10.5311M9.91923 10.6316L9.80787 10.5311M9.80787 10.5311C10.3654 9.91326 11.1319 9.57303 11.9662 9.57303C12.5772 9.57303 13.1384 9.77155 13.6338 10.163M9.80787 10.5311C9.24202 11.1583 8.93035 12.0253 8.93035 12.9724C8.93035 13.9718 9.29384 14.8656 10.1088 15.8704L13.6338 10.163M13.6338 10.163C14.0755 10.512 14.3831 10.9532 14.5633 11.262L13.6338 10.163ZM11.9662 8.75C12.7599 8.75 13.4868 9.00641 14.1266 9.51204L12.9025 19.6697C11.5173 18.4634 10.3211 17.4217 9.48875 16.3955C8.55836 15.2484 8.125 14.1607 8.125 12.9724C8.125 11.818 8.51241 10.7529 9.21579 9.97329C9.92757 9.18445 10.9042 8.75 11.9662 8.75Z"
+                        stroke-width="0.3"
+                      />
+                    </g>
+                    <defs>
+                      <clippath
+                        id="clip0_187_701"
+                      >
+                        <rect
+                          fill="white"
+                          height="15"
+                          transform="translate(7.5 7.5)"
+                          width="15"
+                        />
+                      </clippath>
+                    </defs>
+                  </svg>
+                </button>
+              </div>
+              <a
+                href="/product/9d108ea2-28e2-4c83-b958-68191fbcbff3"
+              >
+                <div
+                  class="css-rsaa23"
+                >
+                  <span
+                    style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                  >
+                    <img
+                      alt="Picture of Full set Grey Sofa"
+                      data-nimg="fill"
+                      decoding="async"
+                      sizes="100vw"
+                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                    />
+                  </span>
+                </div>
+              </a>
+            </div>
+            <div
+              class="chakra-card__body css-f99mjs"
+            >
+              <div
+                class="css-0"
+              >
+                <a
+                  href="/product/9d108ea2-28e2-4c83-b958-68191fbcbff3"
+                >
+                  <h2
+                    class="chakra-heading css-10zd33"
+                  >
+                    Fullset Grey Sofa
+                  </h2>
+                </a>
+                <div
+                  class="css-1hzkocu"
+                >
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <svg
+                    class="chakra-icon css-tlkdll"
+                    focusable="false"
+                    style="margin-right: 1px;"
+                    viewBox="0 0 15 15"
+                  >
+                    <path
+                      d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+                    />
+                  </svg>
+                  <p
+                    class="chakra-text css-1sm3jcj"
+                  >
+                    (
+                    400
+                     Sell)
+                  </p>
+                </div>
+                <div
+                  class="css-hdz8n1"
+                >
+                  <p
+                    class="chakra-text css-33w20q"
+                  >
+                    $
+                    795.4
+                  </p>
+                  <del
+                    class="chakra-text css-bd8jqh"
+                  >
+                    $
+                    820
+                  </del>
+                  <p
+                    class="chakra-text css-cntrqi"
+                  >
+                    -
+                    3
+                    %
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

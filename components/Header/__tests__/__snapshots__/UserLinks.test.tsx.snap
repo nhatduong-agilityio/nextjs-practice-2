@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserLinks Should UserLinks match Snapshot 1`] = `
+<div>
+  <div
+    class="chakra-stack css-1trjysb"
+  >
+    <a
+      href="/"
+    >
+      Shopping Cart
+    </a>
+    <a
+      href="/"
+    >
+      Wishlist
+    </a>
+    <a
+      href="/"
+    >
+      Sign Up
+    </a>
+    <a
+      href="/"
+      style="width: 100%;"
+    >
+      <button
+        class="chakra-button css-1b61qg5"
+        type="button"
+      >
+        Login
+      </button>
+    </a>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

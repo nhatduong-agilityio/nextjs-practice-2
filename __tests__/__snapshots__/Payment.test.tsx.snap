@@ -1,0 +1,404 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Payment Should Payment match snapshot 1`] = `
+<div>
+  <div
+    class="css-2nkcax"
+  >
+    <div
+      class="chakra-stack css-1yykub2"
+    >
+      <h2
+        class="chakra-heading css-1k4oj01"
+      >
+        Payment
+      </h2>
+    </div>
+    <div
+      class="css-n2r5bk"
+      role="radiogroup"
+      style="margin: 0px;"
+    >
+      <div
+        class="chakra-stack css-ppmla1"
+      >
+        <p
+          class="chakra-text css-1jsp72x"
+        >
+          Minimarket
+        </p>
+        <div
+          class="chakra-stack css-vedre6"
+          style="margin: 0px;"
+        >
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r1:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="alfaMart"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Alfa Mart"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r2:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="indoMaret"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Indo Maret"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="chakra-stack css-ppmla1"
+      >
+        <p
+          class="chakra-text css-1jsp72x"
+        >
+          Digital Wallet
+        </p>
+        <div
+          class="chakra-stack css-vedre6"
+          style="margin: 0px;"
+        >
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r3:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="goPay"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Go Pay"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r4:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="ovo"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Ovo"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r5:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="linkAja"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Link Aja"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="chakra-stack css-ppmla1"
+      >
+        <p
+          class="chakra-text css-1jsp72x"
+        >
+          Bank International Payment
+        </p>
+        <div
+          class="chakra-stack css-vedre6"
+          style="margin: 0px;"
+        >
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r6:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="bca"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Bca Bank"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r7:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="mandiri"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Mandiri Bank"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r8:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="bri"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Bri Bank"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="chakra-stack css-ppmla1"
+      >
+        <p
+          class="chakra-text css-1jsp72x"
+        >
+          International Payment
+        </p>
+        <div
+          class="chakra-stack css-vedre6"
+          style="margin: 0px;"
+        >
+          <div
+            class="chakra-stack css-1hyr0v9"
+          >
+            <label
+              class="css-4g6ai3"
+            >
+              <input
+                hidden=""
+                id="radio-:r9:"
+                name="radio-:r0:"
+                style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+                type="radio"
+                value="payPal"
+              />
+              <div
+                aria-hidden="true"
+                class="css-fnt4nb"
+              />
+            </label>
+            <span
+              style="box-sizing: border-box; display: inline-block; overflow: hidden; width: 100px; height: 50px; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative;"
+            >
+              <img
+                alt="Logo brand of Paypal"
+                data-nimg="fixed"
+                decoding="async"
+                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
+                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
+              />
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="chakra-stack css-ml5pvv"
+    >
+      <div
+        class="chakra-button__group css-18fvkf4"
+        data-orientation="horizontal"
+        role="group"
+      >
+        <a
+          href="/"
+        >
+          <button
+            class="chakra-button css-13qmsx6"
+            type="button"
+          >
+            Pay Now
+          </button>
+        </a>
+        <a
+          href="/"
+          style="margin: 0px;"
+        >
+          <button
+            class="chakra-button css-1u6isdo"
+            type="button"
+          >
+            Back to Shipping Data
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

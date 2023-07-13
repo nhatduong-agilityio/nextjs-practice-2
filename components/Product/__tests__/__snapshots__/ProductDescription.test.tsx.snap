@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductDescription render Should ProductDescription match Snapshot 1`] = `
+<div>
+  <div
+    class="css-kx2jl1"
+  >
+    <div
+      class="chakra-stack css-2ogt3p"
+      style="margin: 0px;"
+    >
+      <h2
+        class="chakra-heading css-m47qtn"
+      >
+        Item Detail
+      </h2>
+      <p
+        class="chakra-text css-wndv73"
+      >
+        Product description mock
+      </p>
+    </div>
+    <div
+      class="chakra-stack css-lw9l6d"
+    >
+      <ul
+        class="css-1887c3j"
+        role="list"
+      >
+        <li
+          class="css-1cr0hgh"
+        >
+          <p
+            class="chakra-text css-1nhs1l6"
+          >
+            High Quality Leathers4
+          </p>
+        </li>
+        <li
+          class="css-1cr0hgh"
+        >
+          <p
+            class="chakra-text css-1nhs1l6"
+          >
+            High Quality Paints4
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableColumn render Should TableColumn match Snapshot 1`] = `
+<div>
+  <table
+    class="chakra-table css-5605sr"
+  >
+    <thead
+      class="css-0"
+    >
+      <tr
+        class="css-0"
+      >
+        <th
+          class="css-1xgyvoy"
+        >
+          <p
+            class="chakra-text css-1x05orc"
+            title="columnLabel"
+          >
+            Price
+          </p>
+        </th>
+      </tr>
+    </thead>
+  </table>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Auth Layout render RootLayout should match snapshot 1`] = `
+<html
+  lang="en"
+>
+  <body>
+    <div
+      className="css-4yppbv"
+    />
+    <main
+      className="css-70hxw1"
+    >
+      Test Content
+    </main>
+    <span />
+    <span
+      hidden={true}
+      id="__chakra_env"
+    />
+  </body>
+</html>
+`;

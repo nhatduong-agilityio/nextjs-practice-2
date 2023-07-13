@@ -1,0 +1,509 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShoppingCart Should ShoppingCart match snapshot 1`] = `
+<div>
+  <div
+    class="css-2nkcax"
+  >
+    <div
+      class="chakra-stack css-3qf965"
+    >
+      <h2
+        class="chakra-heading css-1k4oj01"
+      >
+        Shopping Cart
+      </h2>
+    </div>
+    <div
+      class="css-4css3g"
+    >
+      <div
+        class="css-o9ppax"
+      >
+        <table
+          class="chakra-table css-5605sr"
+        >
+          <thead
+            class="css-0"
+          >
+            <tr
+              class="css-1ki54i"
+            >
+              <th
+                class="css-1lbjhhx"
+              >
+                <p
+                  class="chakra-text css-1x05orc"
+                  title="columnLabel"
+                >
+                  Product
+                </p>
+              </th>
+              <th
+                class="css-j025zv"
+              >
+                <p
+                  class="chakra-text css-1x05orc"
+                  title="columnLabel"
+                >
+                  Quantity
+                </p>
+              </th>
+              <th
+                class="css-151n1ag"
+              >
+                <p
+                  class="chakra-text css-1x05orc"
+                  title="columnLabel"
+                >
+                  Color
+                </p>
+              </th>
+              <th
+                class="css-j025zv"
+              >
+                <p
+                  class="chakra-text css-1x05orc"
+                  title="columnLabel"
+                >
+                  Price
+                </p>
+              </th>
+              <th
+                class="css-inag1h"
+              >
+                <p
+                  class="chakra-text css-1x05orc"
+                  title="columnLabel"
+                />
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="css-0"
+          >
+            <tr
+              class="css-0"
+            >
+              <td
+                class="css-uwq8cp"
+              >
+                <div
+                  class="chakra-stack css-1igwmid"
+                >
+                  <div
+                    class="css-0"
+                  >
+                    <div
+                      class="css-1l85dhf"
+                    >
+                      <span
+                        style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+                      >
+                        <img
+                          alt="Picture of Full set Grey Sofa With Pillows"
+                          data-nimg="fill"
+                          decoding="async"
+                          sizes="100vw"
+                          src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+                          srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+                          style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                        />
+                      </span>
+                    </div>
+                  </div>
+                  <h2
+                    class="chakra-heading css-irb7fl"
+                  >
+                    Green Slepper Sofa
+                  </h2>
+                </div>
+              </td>
+              <td
+                class="css-uwq8cp"
+              >
+                <div
+                  class="css-0"
+                >
+                  <div
+                    class="chakra-stack css-vedre6"
+                  >
+                    <p
+                      class="chakra-text css-b1tfl1"
+                    >
+                      Quantity
+                    </p>
+                    <div
+                      class="chakra-stack css-15s55ey"
+                    >
+                      <button
+                        class="chakra-button css-tum80v"
+                        type="button"
+                      >
+                        -
+                      </button>
+                      <div
+                        class="css-lnxiq7"
+                      >
+                        1
+                      </div>
+                      <button
+                        class="chakra-button css-t9d6ji"
+                        type="button"
+                      >
+                        +
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </td>
+              <td
+                class="css-uwq8cp"
+              >
+                <div
+                  class="css-0"
+                >
+                  <div
+                    class="chakra-stack css-vedre6"
+                    style="margin: 0px;"
+                  >
+                    <p
+                      class="chakra-text css-n9821e"
+                    >
+                      Color
+                    </p>
+                    <div
+                      class="css-1ki54i"
+                      style="margin: 0px;"
+                    >
+                      <div
+                        class="chakra-select__wrapper css-1plvatr"
+                      >
+                        <select
+                          class="chakra-select css-5h0fr2"
+                        >
+                          <option
+                            value=""
+                          >
+                            green
+                          </option>
+                          <option
+                            value="blue"
+                          >
+                            Blue
+                          </option>
+                          <option
+                            value="purple"
+                          >
+                            Purple
+                          </option>
+                          <option
+                            value="red"
+                          >
+                            Red
+                          </option>
+                          <option
+                            value="orange"
+                          >
+                            Orange
+                          </option>
+                          <option
+                            value="yellow"
+                          >
+                            Yellow
+                          </option>
+                          <option
+                            value="green"
+                          >
+                            Green
+                          </option>
+                        </select>
+                        <div
+                          class="chakra-select__icon-wrapper css-iohxn1"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="chakra-select__icon"
+                            focusable="false"
+                            role="presentation"
+                            style="width: 1em; height: 1em; color: currentColor;"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+              <td
+                class="css-uwq8cp"
+              >
+                <p
+                  class="chakra-text css-15fwflc"
+                >
+                  $
+                  120
+                </p>
+              </td>
+              <td
+                class="css-uwq8cp"
+              >
+                <div
+                  class="css-1bvc4cc"
+                >
+                  <button
+                    aria-label="Delete cart item"
+                    class="chakra-button css-fmejuy"
+                    type="button"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="chakra-icon css-1cta3o2"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M.439,21.44a1.5,1.5,0,0,0,2.122,2.121L11.823,14.3a.25.25,0,0,1,.354,0l9.262,9.263a1.5,1.5,0,1,0,2.122-2.121L14.3,12.177a.25.25,0,0,1,0-.354l9.263-9.262A1.5,1.5,0,0,0,21.439.44L12.177,9.7a.25.25,0,0,1-.354,0L2.561.44A1.5,1.5,0,0,0,.439,2.561L9.7,11.823a.25.25,0,0,1,0,.354Z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </button>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="css-4ddr7u"
+      >
+        <div
+          class="css-1jg4nui"
+        >
+          <div
+            class="css-0"
+          >
+            <div
+              class="css-1l85dhf"
+            >
+              <span
+                style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
+              >
+                <img
+                  alt="Picture of Full set Grey Sofa With Pillows"
+                  data-nimg="fill"
+                  decoding="async"
+                  sizes="100vw"
+                  src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
+                  srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
+                  style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                />
+              </span>
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-llcfdo"
+          >
+            <h2
+              class="chakra-heading css-irb7fl"
+            >
+              Green Slepper Sofa
+            </h2>
+            <div
+              class="chakra-stack css-ye53l2"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-15fwflc"
+              >
+                $
+                120
+              </p>
+              <div
+                class="chakra-stack css-vedre6"
+              >
+                <p
+                  class="chakra-text css-b1tfl1"
+                >
+                  Quantity
+                </p>
+                <div
+                  class="chakra-stack css-15s55ey"
+                >
+                  <button
+                    class="chakra-button css-tum80v"
+                    type="button"
+                  >
+                    -
+                  </button>
+                  <div
+                    class="css-lnxiq7"
+                  >
+                    1
+                  </div>
+                  <button
+                    class="chakra-button css-t9d6ji"
+                    type="button"
+                  >
+                    +
+                  </button>
+                </div>
+              </div>
+              <div
+                class="chakra-stack css-vedre6"
+                style="margin: 0px;"
+              >
+                <p
+                  class="chakra-text css-n9821e"
+                >
+                  Color
+                </p>
+                <div
+                  class="css-1ki54i"
+                  style="margin: 0px;"
+                >
+                  <div
+                    class="chakra-select__wrapper css-1plvatr"
+                  >
+                    <select
+                      class="chakra-select css-5h0fr2"
+                    >
+                      <option
+                        value=""
+                      >
+                        green
+                      </option>
+                      <option
+                        value="blue"
+                      >
+                        Blue
+                      </option>
+                      <option
+                        value="purple"
+                      >
+                        Purple
+                      </option>
+                      <option
+                        value="red"
+                      >
+                        Red
+                      </option>
+                      <option
+                        value="orange"
+                      >
+                        Orange
+                      </option>
+                      <option
+                        value="yellow"
+                      >
+                        Yellow
+                      </option>
+                      <option
+                        value="green"
+                      >
+                        Green
+                      </option>
+                    </select>
+                    <div
+                      class="chakra-select__icon-wrapper css-iohxn1"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-select__icon"
+                        focusable="false"
+                        role="presentation"
+                        style="width: 1em; height: 1em; color: currentColor;"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="css-1bvc4cc"
+          >
+            <button
+              aria-label="Delete cart item"
+              class="chakra-button css-fmejuy"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="chakra-icon css-k4k1rr"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M.439,21.44a1.5,1.5,0,0,0,2.122,2.121L11.823,14.3a.25.25,0,0,1,.354,0l9.262,9.263a1.5,1.5,0,1,0,2.122-2.121L14.3,12.177a.25.25,0,0,1,0-.354l9.263-9.262A1.5,1.5,0,0,0,21.439.44L12.177,9.7a.25.25,0,0,1-.354,0L2.561.44A1.5,1.5,0,0,0,.439,2.561L9.7,11.823a.25.25,0,0,1,0,.354Z"
+                  fill="currentColor"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="chakra-stack css-t6s6r"
+      >
+        <p
+          class="chakra-text css-6q81o6"
+        >
+          Total
+        </p>
+        <p
+          class="chakra-text css-ba9svp"
+        >
+          Price
+        </p>
+      </div>
+      <div
+        class="chakra-stack css-12o5gu4"
+      >
+        <div
+          class="chakra-button__group css-18fvkf4"
+          data-orientation="horizontal"
+          role="group"
+        >
+          <a
+            href=""
+          >
+            <button
+              class="chakra-button css-13qmsx6"
+              type="button"
+            >
+              Next to Shipping Data
+            </button>
+          </a>
+          <a
+            href="/"
+            style="margin: 0px;"
+          >
+            <button
+              class="chakra-button css-1u6isdo"
+              type="button"
+            >
+              Back to Homepage
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

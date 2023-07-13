@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterControl render Should FilterControl match Snapshot 1`] = `
+<div>
+  <div
+    class="chakra-stack css-blzuji"
+  >
+    <h2
+      class="chakra-heading css-4t11uo"
+    >
+      Product
+    </h2>
+    <button
+      class="chakra-button css-10zc6up"
+      style="padding-inline: 0;"
+      type="button"
+    >
+      Filter
+    </button>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

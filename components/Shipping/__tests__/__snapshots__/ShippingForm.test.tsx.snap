@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShippingForm render Should ShippingForm match Snapshot 1`] = `
+<div>
+  <div
+    class="css-4css3g"
+  >
+    <div
+      class="chakra-stack css-ppmla1"
+      style="margin-top: 0px;"
+    >
+      <form>
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <div
+            class="chakra-stack css-e8q362"
+          >
+            <div
+              class="chakra-stack css-13203fq"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-1bmwq82"
+              >
+                Name
+              </p>
+              <input
+                class="chakra-input css-1nkx82e"
+                id="field-:r0:"
+                name="name"
+                placeholder="Ex : Christian Tanaka"
+                type="text"
+              />
+            </div>
+            <div
+              class="chakra-stack css-13203fq"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-1bmwq82"
+              >
+                Phone Number
+              </p>
+              <input
+                class="chakra-input css-1nkx82e"
+                id="field-:r0:"
+                name="phoneNumber"
+                placeholder="Ex : 0548548539543"
+                type="number"
+              />
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-e8q362"
+          >
+            <div
+              class="chakra-stack css-13203fq"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-1bmwq82"
+              >
+                City
+              </p>
+              <input
+                class="chakra-input css-1nkx82e"
+                id="field-:r0:"
+                name="city"
+                placeholder="Ex : Purwokerto"
+                type="text"
+              />
+            </div>
+            <div
+              class="chakra-stack css-13203fq"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-1bmwq82"
+              >
+                Districts
+              </p>
+              <input
+                class="chakra-input css-1nkx82e"
+                id="field-:r0:"
+                name="district"
+                placeholder="Ex : Banyumas"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-e8q362"
+          >
+            <div
+              class="chakra-stack css-13203fq"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-1bmwq82"
+              >
+                Province
+              </p>
+              <input
+                class="chakra-input css-1nkx82e"
+                id="field-:r0:"
+                name="province"
+                placeholder="Ex : Cetral Java"
+                type="text"
+              />
+            </div>
+            <div
+              class="chakra-stack css-13203fq"
+              style="margin: 0px;"
+            >
+              <p
+                class="chakra-text css-1bmwq82"
+              >
+                Zip Code
+              </p>
+              <input
+                class="chakra-input css-1nkx82e"
+                id="field-:r0:"
+                name="zipCode"
+                placeholder="Ex : 67433"
+                type="number"
+              />
+            </div>
+          </div>
+          <div
+            class="chakra-stack css-13203fq"
+            style="margin: 0px;"
+          >
+            <p
+              class="chakra-text css-1bmwq82"
+            >
+              Address
+            </p>
+            <textarea
+              class="chakra-textarea css-xmuutn"
+              id="field-:r0:"
+              placeholder="Ex : Pramuka street number 49, Singapore"
+              style="margin: 0px;"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+    <div
+      class="chakra-stack css-ml5pvv"
+    >
+      <div
+        class="chakra-button__group css-18fvkf4"
+        data-orientation="horizontal"
+        role="group"
+      >
+        <a
+          href=""
+        >
+          <button
+            class="chakra-button css-13qmsx6"
+            type="button"
+          >
+            Next to Payment
+          </button>
+        </a>
+        <a
+          href="/"
+          style="margin: 0px;"
+        >
+          <button
+            class="chakra-button css-1u6isdo"
+            type="button"
+          >
+            Back to Shopping Cart
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

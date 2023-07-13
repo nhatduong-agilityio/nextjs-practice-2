@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductMainContent render Should ProductMainContent match Snapshot 1`] = `
+<div>
+  <div
+    class="css-1ki54i"
+    style="margin: 0px;"
+  >
+    <div
+      class="css-ow32u0"
+    >
+      <svg
+        class="chakra-icon css-tlkdll"
+        focusable="false"
+        style="margin-right: 1px;"
+        viewBox="0 0 15 15"
+      >
+        <path
+          d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+        />
+      </svg>
+      <svg
+        class="chakra-icon css-tlkdll"
+        focusable="false"
+        style="margin-right: 1px;"
+        viewBox="0 0 15 15"
+      >
+        <path
+          d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+        />
+      </svg>
+      <svg
+        class="chakra-icon css-tlkdll"
+        focusable="false"
+        style="margin-right: 1px;"
+        viewBox="0 0 15 15"
+      >
+        <path
+          d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+        />
+      </svg>
+      <svg
+        class="chakra-icon css-tlkdll"
+        focusable="false"
+        style="margin-right: 1px;"
+        viewBox="0 0 15 15"
+      >
+        <path
+          d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+        />
+      </svg>
+      <svg
+        class="chakra-icon css-tlkdll"
+        focusable="false"
+        style="margin-right: 1px;"
+        viewBox="0 0 15 15"
+      >
+        <path
+          d="M7.5 10.7938L11.3625 13.125L10.3375 8.73125L13.75 5.775L9.25625 5.39375L7.5 1.25L5.74375 5.39375L1.25 5.775L4.6625 8.73125L3.6375 13.125L7.5 10.7938Z"
+        />
+      </svg>
+      <p
+        class="chakra-text css-1fr0u0k"
+      >
+        (
+        400
+         Sell)
+      </p>
+    </div>
+    <div
+      class="css-1rqbrwb"
+    >
+      <h2
+        class="chakra-heading css-1naee9b"
+      >
+        $
+        120
+      </h2>
+    </div>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

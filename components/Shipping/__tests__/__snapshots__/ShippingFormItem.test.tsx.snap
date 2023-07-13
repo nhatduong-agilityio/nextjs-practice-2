@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShippingFormItem render Should ShippingFormItem match Snapshot 1`] = `
+<div>
+  <div
+    class="chakra-stack css-13203fq"
+    style="margin: 0px;"
+  >
+    <p
+      class="chakra-text css-1bmwq82"
+    >
+      Location
+    </p>
+    <input
+      class="chakra-input css-1nkx82e"
+      name="location"
+      placeholder="VietNam"
+      type="text"
+    />
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

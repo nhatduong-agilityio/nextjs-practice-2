@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableHead render Should TableHead match Snapshot 1`] = `
+<div>
+  <table
+    class="chakra-table css-5605sr"
+  >
+    <thead
+      class="css-0"
+    >
+      <tr
+        class="css-1ki54i"
+      >
+        <th
+          class="css-1lbjhhx"
+        >
+          <p
+            class="chakra-text css-1x05orc"
+            title="columnLabel"
+          >
+            Product
+          </p>
+        </th>
+        <th
+          class="css-j025zv"
+        >
+          <p
+            class="chakra-text css-1x05orc"
+            title="columnLabel"
+          >
+            Quantity
+          </p>
+        </th>
+        <th
+          class="css-151n1ag"
+        >
+          <p
+            class="chakra-text css-1x05orc"
+            title="columnLabel"
+          >
+            Color
+          </p>
+        </th>
+        <th
+          class="css-j025zv"
+        >
+          <p
+            class="chakra-text css-1x05orc"
+            title="columnLabel"
+          >
+            Price
+          </p>
+        </th>
+        <th
+          class="css-inag1h"
+        >
+          <p
+            class="chakra-text css-1x05orc"
+            title="columnLabel"
+          />
+        </th>
+      </tr>
+    </thead>
+  </table>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;
