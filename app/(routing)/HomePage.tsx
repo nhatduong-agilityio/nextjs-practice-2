@@ -1,8 +1,9 @@
 'use client'
 
 import type { TArticles } from '@matched-types/articles'
+import type { TProducts } from '@matched-types/product'
 import dynamic from 'next/dynamic'
-import React from 'react'
+import React, { memo, useMemo } from 'react'
 
 // Components
 const Hero = dynamic(() => import('@components/Sections/Hero'))
@@ -15,20 +16,27 @@ const ListArticles = dynamic(() => import('@components/Sections/ListArticles'))
 
 interface IHomeProps {
   articles: TArticles
+  products: TProducts
 }
 
-const HomePage = ({ articles }: IHomeProps) => {
+const HomePage = memo(({ articles, products }: IHomeProps) => {
+  const bestSellerProducts = useMemo(() => {
+    return products.filter((product) => product.discount !== 0)
+  }, [products])
+
   return (
     <>
       <Hero />
-      <BestSellerProducts />
+      <BestSellerProducts products={bestSellerProducts} />
       <Categories />
-      <Products />
+      <Products products={products} />
       <CategoriesDetail />
       <Article />
       <ListArticles articles={articles} />
     </>
   )
-}
+})
+
+HomePage.displayName = 'HomePage'
 
 export default HomePage

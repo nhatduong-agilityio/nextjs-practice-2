@@ -1,7 +1,7 @@
 'use client'
 
 // Libs
-import React, { Fragment } from 'react'
+import React, { Fragment, memo } from 'react'
 import { Container, Heading, SimpleGrid, Stack, Text } from '@chakra-ui/react'
 import NextLink from 'next/link'
 
@@ -9,9 +9,13 @@ import NextLink from 'next/link'
 import ProductCard from '@components/Product/ProductCard'
 
 // Data
-import { ProductsMock } from '@mock/dataMock'
+import type { TProducts } from '@matched-types/product'
 
-const Products = () => (
+interface IProductsProps {
+  products: TProducts
+}
+
+const Products = memo(({ products }: IProductsProps) => (
   <Container
     as='section'
     maxW='full'
@@ -30,13 +34,15 @@ const Products = () => (
       </NextLink>
     </Stack>
     <SimpleGrid columns={[2, 4, 4]} spacingY={['20px', '50px']} spacingX='20px'>
-      {ProductsMock.map((item) => (
+      {products?.map((item) => (
         <Fragment key={item.id}>
           <ProductCard product={item} variant='medium' />
         </Fragment>
       ))}
     </SimpleGrid>
   </Container>
-)
+))
+
+Products.displayName = 'Products'
 
 export default Products

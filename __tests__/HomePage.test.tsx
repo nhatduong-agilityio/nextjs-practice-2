@@ -10,7 +10,7 @@ import CategoriesDetail from '@components/Sections/CategoriesDetail'
 import Products from '@components/Sections/Products'
 import Article from '@components/Sections/Article'
 import ListArticles from '@components/Sections/ListArticles'
-import { ArticlesMock } from '@mock/dataMock'
+import { ArticlesMock, ProductsMock } from '@mock/dataMock'
 import HomePage from '../app/(routing)/HomePage'
 
 jest.mock('next/navigation', () => ({
@@ -28,7 +28,7 @@ describe('Home', () => {
     }),
   ) as jest.Mock
 
-  const props = { articles: ArticlesMock }
+  const props = { articles: ArticlesMock, products: ProductsMock }
 
   let wrapper: RenderResult
 
@@ -59,7 +59,7 @@ describe('Home', () => {
   })
 
   it('Should render section Best Seller Products', async () => {
-    const { container } = render(<BestSellerProducts />)
+    const { container } = render(<BestSellerProducts products={ProductsMock} />)
 
     expect(container).toMatchSnapshot()
   })
@@ -71,7 +71,7 @@ describe('Home', () => {
   })
 
   it('Should render section Products', async () => {
-    const { container } = render(<Products />)
+    const { container } = render(<Products products={ProductsMock} />)
 
     expect(container).toMatchSnapshot()
   })

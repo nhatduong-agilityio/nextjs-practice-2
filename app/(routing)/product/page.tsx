@@ -33,7 +33,6 @@ export const metadata: Metadata = {
 }
 
 async function getProducts() {
-  // const products: TProducts = await ProductsMock
   const products: TProducts = await fetcherInstance({
     endpoint: PRODUCTS_ENDPOINT,
   })

@@ -29,7 +29,7 @@ const ListProducts = memo(({ products, productsNotFound }: ListProductsProps): J
       {productsNotFound ? (
         <EmptyListProducts searchQuery={search} />
       ) : (
-        products.map((product) => (
+        products?.map((product) => (
           <Fragment key={product.id}>
             <ProductCard product={product} variant='medium' sizeImage='small' />
           </Fragment>
