@@ -1,7 +1,8 @@
 import Loading from '@components/Common/Loading'
+import { PRODUCTS_ENDPOINT } from '@constants/endPoints'
 import { PAGE_URL, PORT } from '@constants/routes'
 import type { TProducts } from '@matched-types/product'
-import { ProductsMock } from '@mock/dataMock'
+import { fetcherInstance } from '@services/requests'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
@@ -13,24 +14,32 @@ type Props = {
   params: { id: string }
 }
 
-export function generateStaticParams() {
-  const products: TProducts = ProductsMock
+export async function generateStaticParams() {
+  const products: TProducts = await fetcherInstance({
+    endpoint: PRODUCTS_ENDPOINT,
+  })
 
   return products.map((product) => ({
     id: product.id,
   }))
 }
 
-function getProduct(params: { id: string }) {
-  const products: TProducts = ProductsMock
+async function getProduct(params: { id: string }) {
+  const products: TProducts = await fetcherInstance({
+    endpoint: PRODUCTS_ENDPOINT,
+  })
+
   const matchedProduct = products.find((product) => product.id === params.id)
 
   return matchedProduct
 }
 
-export const generateMetadata = (props: Props): Metadata => {
+export const generateMetadata = async (props: Props): Promise<Metadata> => {
   const { params } = props
-  const products: TProducts = ProductsMock
+  const products: TProducts = await fetcherInstance({
+    endpoint: PRODUCTS_ENDPOINT,
+  })
+
   const matchedProduct = products.find((product) => product.id === params.id)
 
   return {
@@ -56,8 +65,8 @@ export const generateMetadata = (props: Props): Metadata => {
   }
 }
 
-const ProductDetail = ({ params }: Props) => {
-  const product = getProduct(params)
+const ProductDetail = async ({ params }: Props) => {
+  const product = await getProduct(params)
 
   if (!product || Object.keys(product).length === 0) {
     notFound()
