@@ -2,12 +2,13 @@
 
 // Libs
 import { Flex, Grid, GridItem } from '@chakra-ui/react'
-import React, { memo, useCallback, useMemo, useState } from 'react'
+import React, { Suspense, memo, useCallback, useMemo, useState } from 'react'
 import dynamic from 'next/dynamic'
 
 // Components
 import LoadingIndicator from '@components/Common/LoadingIndicator'
 import FilterControl from '@components/Product/FilterProduct/FilterControl'
+import Loading from '@components/Common/Loading'
 
 // Types
 import type { TProducts } from '@matched-types/product'
@@ -89,10 +90,14 @@ const ProductPage = memo(({ products }: IProductPageProps): JSX.Element => {
           w='full'
           height='100vh'
         >
-          <FilterProduct products={products} />
+          <Suspense fallback={<Loading />}>
+            <FilterProduct products={products} />
+          </Suspense>
         </GridItem>
         <GridItem rowSpan={1} colSpan={[4, 3, 3]}>
-          <ListProducts products={products} productsNotFound={productsNotFound} />
+          <Suspense fallback={<Loading />}>
+            <ListProducts products={products} productsNotFound={productsNotFound} />
+          </Suspense>
         </GridItem>
       </Grid>
     </Flex>

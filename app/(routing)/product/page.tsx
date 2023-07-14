@@ -1,14 +1,16 @@
-import { BASE_URL } from '@constants/endPoints'
-import { PAGE_URL } from '@constants/routes'
+import { PAGE_URL, PORT } from '@constants/routes'
 import type { TProducts } from '@matched-types/product'
 import { ProductsMock } from '@mock/dataMock'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
+import { Suspense } from 'react'
+import Loading from '@components/Common/Loading'
 
 const ProductPage = dynamic(() => import('./ProductPage'))
 
 export const metadata: Metadata = {
+  metadataBase: new URL(`${PORT}`),
   title: 'Shop Bag | Products',
   description: 'You can find everything about furniture product here',
   keywords: ['product', 'shop bag', 'nextjs', 'furniture marketplace'],
@@ -17,7 +19,7 @@ export const metadata: Metadata = {
   manifest: '/site.webmanifest',
   openGraph: {
     type: 'website',
-    url: `${BASE_URL}${PAGE_URL.PRODUCT.URL}`,
+    url: `${PORT}${PAGE_URL.PRODUCT.URL}`,
     title: 'Shop Bag | Products',
     description: 'You can find everything about furniture product here',
     siteName: 'Products',
@@ -48,7 +50,11 @@ const Products = () => {
     notFound()
   }
 
-  return <ProductPage products={products} />
+  return (
+    <Suspense fallback={<Loading />}>
+      <ProductPage products={products} />
+    </Suspense>
+  )
 }
 
 export default Products

@@ -1,11 +1,11 @@
-import { BASE_URL } from '@constants/endPoints'
-import { PAGE_URL } from '@constants/routes'
+import { PAGE_URL, PORT } from '@constants/routes'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 
 const ShoppingCartPage = dynamic(() => import('./ShoppingCartPage'))
 
 export const metadata: Metadata = {
+  metadataBase: new URL(`${PORT}`),
   title: 'Shop Bag | Cart',
   description: 'Your shopping cart here',
   keywords: ['cart', 'shop bag', 'nextjs', 'furniture marketplace'],
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   manifest: '/site.webmanifest',
   openGraph: {
     type: 'website',
-    url: `${BASE_URL}${PAGE_URL.CART.URL}`,
+    url: `${PORT}${PAGE_URL.CART.URL}`,
     title: 'Shop Bag | Cart',
     description: 'Your shopping cart here',
     siteName: 'Cart',

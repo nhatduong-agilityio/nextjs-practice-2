@@ -1,8 +1,8 @@
 import dynamic from 'next/dynamic'
 
 import type { Metadata } from 'next'
-import { ARTICLES_ENDPOINT, BASE_URL } from '@constants/endPoints'
-import { PAGE_URL } from '@constants/routes'
+import { ARTICLES_ENDPOINT } from '@constants/endPoints'
+import { PAGE_URL, PORT } from '@constants/routes'
 import { fetcherInstanceAPI } from '@services/requests'
 import type { TArticles } from '@matched-types/articles'
 import { notFound } from 'next/navigation'
@@ -10,6 +10,7 @@ import { notFound } from 'next/navigation'
 const HomePage = dynamic(() => import('./HomePage'))
 
 export const metadata: Metadata = {
+  metadataBase: new URL(`${PORT}`),
   title: 'Shop Bag',
   description: 'Furniture Marketplace Shop Bag',
   keywords: ['shop bag', 'nextjs', 'furniture marketplace'],
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
   manifest: '/site.webmanifest',
   openGraph: {
     type: 'website',
-    url: `${BASE_URL}${PAGE_URL.HOME.URL}`,
+    url: `${PORT}${PAGE_URL.HOME.URL}`,
     title: 'Shop Bag',
     description: 'Furniture Marketplace Shop Bag',
     siteName: 'Shop Bag',

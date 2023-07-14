@@ -8,3 +8,5 @@ export const PAGE_URL = {
   GALLERY: { TITLE: 'Gallery', URL: '/gallery' },
   PRODUCT: { TITLE: 'Product', URL: '/product' },
 }
+
+export const PORT = process.env.NEXT_PUBLIC_PORT

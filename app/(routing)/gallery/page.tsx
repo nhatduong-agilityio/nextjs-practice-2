@@ -1,5 +1,5 @@
-import { ARTICLES_ENDPOINT, BASE_URL } from '@constants/endPoints'
-import { PAGE_URL } from '@constants/routes'
+import { ARTICLES_ENDPOINT } from '@constants/endPoints'
+import { PAGE_URL, PORT } from '@constants/routes'
 import type { TArticles } from '@matched-types/articles'
 import { fetcherInstanceAPI } from '@services/requests'
 import type { Metadata } from 'next'
@@ -9,6 +9,7 @@ import { notFound } from 'next/navigation'
 const GalleryPage = dynamic(() => import('./GalleryPage'))
 
 export const metadata: Metadata = {
+  metadataBase: new URL(`${PORT}`),
   title: 'Shop Bag | Gallery',
   description: 'You can find furniture design articles here',
   keywords: ['gallery', 'shop bag', 'nextjs', 'furniture marketplace'],
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
   manifest: '/site.webmanifest',
   openGraph: {
     type: 'website',
-    url: `${BASE_URL}${PAGE_URL.GALLERY.URL}`,
+    url: `${PORT}${PAGE_URL.GALLERY.URL}`,
     title: 'Shop Bag | Gallery',
     description: 'You can find furniture design articles here',
     siteName: 'Gallery',

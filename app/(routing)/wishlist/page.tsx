@@ -1,5 +1,4 @@
-import { BASE_URL } from '@constants/endPoints'
-import { PAGE_URL } from '@constants/routes'
+import { PAGE_URL, PORT } from '@constants/routes'
 import type { TProducts } from '@matched-types/product'
 import { ProductsMock } from '@mock/dataMock'
 import type { Metadata } from 'next'
@@ -9,6 +8,7 @@ import { notFound } from 'next/navigation'
 const WishListPage = dynamic(() => import('./WishListPage'))
 
 export const metadata: Metadata = {
+  metadataBase: new URL(`${PORT}`),
   title: 'Shop Bag | Products Wishlist',
   description: 'You can see wishlist products here',
   keywords: ['wishlist', 'shop bag', 'nextjs', 'furniture marketplace'],
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   manifest: '/site.webmanifest',
   openGraph: {
     type: 'website',
-    url: `${BASE_URL}${PAGE_URL.WISHLIST.URL}`,
+    url: `${PORT}${PAGE_URL.WISHLIST.URL}`,
     title: 'Shop Bag | Products Wishlist',
     description: 'You can see wishlist products here',
     siteName: 'WishList',
