@@ -57,7 +57,7 @@ const FilterProduct = memo(({ products }: IFilterProduct): JSX.Element => {
 
   const search = searchParams && searchParams.get('category')?.toString()
 
-  const productCategories = useMemo(() => products.map((product) => product.category), [products])
+  const productCategories = useMemo(() => products?.map((product) => product.category), [products])
 
   return (
     <Stack style={{ margin: 0 }} w='full'>

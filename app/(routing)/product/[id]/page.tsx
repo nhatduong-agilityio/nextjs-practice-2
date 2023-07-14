@@ -17,9 +17,10 @@ type Props = {
 export async function generateStaticParams() {
   const products: TProducts = await fetcherInstance({
     endpoint: PRODUCTS_ENDPOINT,
+    fetchingMethod: 'SSR',
   })
 
-  return products.map((product) => ({
+  return products?.map((product) => ({
     id: product.id,
   }))
 }
