@@ -1,7 +1,7 @@
 import { ARTICLES_ENDPOINT, BASE_URL } from '@constants/endPoints'
 import { PAGE_URL } from '@constants/routes'
-import type { TArticles } from '@matched-types/articles'
-import { fetcherInstance } from '@services/requests'
+import type { TArticle, TArticles } from '@matched-types/articles'
+import { fetcherInstanceAPI } from '@services/requests'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
@@ -13,7 +13,7 @@ type Props = {
 }
 
 export async function generateStaticParams() {
-  const articles: TArticles = await fetcherInstance({
+  const articles: TArticles = await fetcherInstanceAPI({
     endpoint: ARTICLES_ENDPOINT,
   })
 
@@ -23,22 +23,22 @@ export async function generateStaticParams() {
 }
 
 async function getArticle(params: { id: string }) {
-  const articles: TArticles = await fetcherInstance({
-    endpoint: ARTICLES_ENDPOINT,
+  const response: TArticle = await fetcherInstanceAPI({
+    endpoint: `${ARTICLES_ENDPOINT}/${params.id}`,
   })
 
-  const response = articles.find((article) => article.id === params.id)
+  // const response = articles.find((article) => article.id === params.id)
 
   return response
 }
 
 export const generateMetadata = async (props: Props): Promise<Metadata> => {
   const { params } = props
-  const articles: TArticles = await fetcherInstance({
-    endpoint: ARTICLES_ENDPOINT,
+  const response: TArticle = await fetcherInstanceAPI({
+    endpoint: `${ARTICLES_ENDPOINT}/${params.id}`,
   })
 
-  const response = articles.find((article) => article.id === params.id)
+  // const response = articles.find((article) => article.id === params.id)
 
   return {
     title: `Gallery Detail | ${response?.title}`,
