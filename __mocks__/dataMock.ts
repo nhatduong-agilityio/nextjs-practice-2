@@ -222,7 +222,7 @@ export const CategoriesMock = {
 
 export const ProductsMock = [
   {
-    id: uuidv4(),
+    id: '40e74e5f-d9c1-4469-a1ed-9e35a6dff6123',
     name: 'Green Slepper Sofa',
     category: 'Sofa',
     images: {
@@ -245,7 +245,7 @@ export const ProductsMock = [
     wish: true,
   },
   {
-    id: uuidv4(),
+    id: '40e74e5f-d9c1-4469-a1ed-9e35a6dff345',
     name: 'Yellow Chair X Banana Kitty',
     category: 'Chair',
     images: {
@@ -268,7 +268,7 @@ export const ProductsMock = [
     wish: true,
   },
   {
-    id: uuidv4(),
+    id: '40e74e5f-d9c1-4469-a1ed-9e35a6dff567',
     name: 'Fullset Grey Sofa With Pillow',
     category: 'Sofa',
     images: {
@@ -291,7 +291,7 @@ export const ProductsMock = [
     wish: true,
   },
   {
-    id: uuidv4(),
+    id: '40e74e5f-d9c1-4469-a1ed-9e35a6dff789',
     name: 'Fullset Grey Sofa',
     category: 'Sofa',
     images: {
