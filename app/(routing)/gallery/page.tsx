@@ -1,7 +1,7 @@
 import { ARTICLES_ENDPOINT, BASE_URL } from '@constants/endPoints'
 import { PAGE_URL } from '@constants/routes'
 import type { TArticles } from '@matched-types/articles'
-import { fetcherInstance } from '@services/requests'
+import { fetcherInstanceAPI } from '@services/requests'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
@@ -30,8 +30,9 @@ export const metadata: Metadata = {
 }
 
 async function getArticles() {
-  const articles: TArticles = await fetcherInstance({
+  const articles: TArticles = await fetcherInstanceAPI({
     endpoint: ARTICLES_ENDPOINT,
+    fetchingMethod: 'SSR',
   })
 
   return {
