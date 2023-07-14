@@ -33,7 +33,6 @@ export const metadata: Metadata = {
 async function getData() {
   const articles: TArticles = await fetcherInstance({
     endpoint: ARTICLES_ENDPOINT,
-    fetchingMethod: 'SSR',
   })
 
   return {
