@@ -1,9 +1,7 @@
 import Loading from '@components/Common/Loading'
-import { PRODUCTS_ENDPOINT } from '@constants/endPoints'
 import { PAGE_URL, PORT } from '@constants/routes'
 import type { TProducts } from '@matched-types/product'
 import { ProductsMock } from '@mock/dataMock'
-import { fetcherInstance } from '@services/requests'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
@@ -24,9 +22,7 @@ export async function generateStaticParams() {
 }
 
 async function getProduct(params: { id: string }) {
-  const products: TProducts = await fetcherInstance({
-    endpoint: PRODUCTS_ENDPOINT,
-  })
+  const products: TProducts = await ProductsMock
 
   const matchedProduct = products.find((product) => product.id === params.id)
 

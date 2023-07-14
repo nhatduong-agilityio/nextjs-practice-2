@@ -5,8 +5,7 @@ import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
 import { Suspense } from 'react'
 import Loading from '@components/Common/Loading'
-import { fetcherInstance } from '@services/requests'
-import { PRODUCTS_ENDPOINT } from '@constants/endPoints'
+import { ProductsMock } from '@mock/dataMock'
 
 const ProductPage = dynamic(() => import('./ProductPage'))
 
@@ -33,9 +32,7 @@ export const metadata: Metadata = {
 }
 
 async function getProducts() {
-  const products: TProducts = await fetcherInstance({
-    endpoint: PRODUCTS_ENDPOINT,
-  })
+  const products: TProducts = await ProductsMock
 
   return {
     props: {

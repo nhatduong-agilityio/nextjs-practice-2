@@ -1,12 +1,13 @@
 import dynamic from 'next/dynamic'
 
 import type { Metadata } from 'next'
-import { ARTICLES_ENDPOINT, PRODUCTS_ENDPOINT } from '@constants/endPoints'
+import { ARTICLES_ENDPOINT } from '@constants/endPoints'
 import { PAGE_URL, PORT } from '@constants/routes'
-import { fetcherInstance, fetcherInstanceAPI } from '@services/requests'
+import { fetcherInstanceAPI } from '@services/requests'
 import type { TArticles } from '@matched-types/articles'
 import { notFound } from 'next/navigation'
 import type { TProducts } from '@matched-types/product'
+import { ProductsMock } from '@mock/dataMock'
 
 const HomePage = dynamic(() => import('./HomePage'))
 
@@ -38,9 +39,7 @@ async function getData() {
     fetchingMethod: 'SSR',
   })
 
-  const products: TProducts = await fetcherInstance({
-    endpoint: PRODUCTS_ENDPOINT,
-  })
+  const products: TProducts = await ProductsMock
 
   return {
     props: {
