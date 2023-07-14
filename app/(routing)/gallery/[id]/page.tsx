@@ -15,6 +15,7 @@ type Props = {
 export async function generateStaticParams() {
   const articles: TArticles = await fetcherInstanceAPI({
     endpoint: ARTICLES_ENDPOINT,
+    fetchingMethod: 'SSR',
   })
 
   return articles.map((article) => ({
@@ -25,6 +26,7 @@ export async function generateStaticParams() {
 async function getArticle(params: { id: string }) {
   const response: TArticle = await fetcherInstanceAPI({
     endpoint: `${ARTICLES_ENDPOINT}/${params.id}`,
+    fetchingMethod: 'SSR',
   })
 
   // const response = articles.find((article) => article.id === params.id)
@@ -36,6 +38,7 @@ export const generateMetadata = async (props: Props): Promise<Metadata> => {
   const { params } = props
   const response: TArticle = await fetcherInstanceAPI({
     endpoint: `${ARTICLES_ENDPOINT}/${params.id}`,
+    fetchingMethod: 'SSR',
   })
 
   // const response = articles.find((article) => article.id === params.id)
