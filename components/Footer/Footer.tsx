@@ -34,7 +34,7 @@ const Footer = () => (
     >
       <Stack flexDir={['column', 'row']} width='full' justifyContent='space-between'>
         <Stack>
-          <NextLink href='/' passHref>
+          <NextLink href='/' passHref aria-label='brand-store'>
             <HStack alignItems='end'>
               <BagIcon width={['25px', '33px']} height={['27px', '38px']} fill='white' />
               <BrandIcon
@@ -84,7 +84,7 @@ const Footer = () => (
               </Text>
               <ListLink items={ContactUsLinks} />
               <HStack style={{ margin: 0 }} pt='15px' spacing='15px'>
-                <NextLink href='/' passHref>
+                <NextLink href='/' passHref aria-label='social-fb'>
                   <FacebookOutlineIcon
                     width='20px'
                     height='20px'
@@ -92,10 +92,10 @@ const Footer = () => (
                     fill='white'
                   />
                 </NextLink>
-                <NextLink href='/' passHref>
+                <NextLink href='/' passHref aria-label='social-tw'>
                   <TwitterOutlineIcon width='20px' height='20px' viewBox='0 0 20 20' fill='white' />
                 </NextLink>
-                <NextLink href='/' passHref>
+                <NextLink href='/' passHref aria-label='social-li'>
                   <LikedInOutlineIcon width='20px' height='20px' viewBox='0 0 20 20' fill='white' />
                 </NextLink>
               </HStack>

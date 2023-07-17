@@ -7,35 +7,11 @@ import React, { useCallback, useState } from 'react'
 import Image from '@components/Common/Image'
 import Quantity from '@components/Common/Quantity'
 
-import SOFA_GREEN from '@public/images/sofa-green.jpg'
 import SelectOption from '@components/Common/SelectOption'
-import { ColorMock } from '@mock/dataMock'
-
-const CART = {
-  id: 1,
-  name: 'Green Slepper Sofa',
-  category: 'Sofa',
-  images: {
-    image: SOFA_GREEN,
-  },
-  imageAlt: 'Picture of Full set Grey Sofa With Pillows',
-  description: 'Modern home in city center in the heart of historic Los Angele',
-  details: [
-    { id: 1, content: 'High Quality Leathers' },
-    { id: 2, content: 'High Quality Paints' },
-    { id: 3, content: 'High Quality Woods' },
-    { id: 4, content: 'Cheaps Price' },
-  ],
-  color: 'green',
-  price: 120,
-  discount: 0,
-  sellCount: 400,
-  rating: 5,
-  quantity: 1,
-}
+import { ColorMock, CartMock } from '@mock/dataMock'
 
 const CartItem = () => {
-  const [quantity, setQuantity] = useState(CART.quantity)
+  const [quantity, setQuantity] = useState(CartMock.quantity)
 
   const handleSumQuantity = useCallback(() => {
     setQuantity(quantity + 1)
@@ -57,8 +33,8 @@ const CartItem = () => {
     >
       <Box>
         <Image
-          src={CART.images.image}
-          alt={CART.imageAlt}
+          src={CartMock.images.image}
+          alt={CartMock.imageAlt}
           width={['70px', '120px']}
           height={['70px', '120px']}
           variant='primary'
@@ -72,11 +48,11 @@ const CartItem = () => {
         alignItems={['flex-start', 'center']}
       >
         <Heading w='full' size={['xs', 'sm']} fontWeight={['Regular', 'Bold']}>
-          {CART.name}
+          {CartMock.name}
         </Heading>
         <Stack w='full' style={{ margin: 0 }} gap='10px' flexDir='column'>
           <Text size={['20', '30']} variant='large'>
-            ${CART.price}
+            ${CartMock.price}
           </Text>
 
           <Quantity
@@ -85,7 +61,12 @@ const CartItem = () => {
             onHandleSubQuantity={handleSubQuantity}
             disableLabel
           />
-          <SelectOption name='Color' placeholder={CART.color} options={ColorMock} disableLabel />
+          <SelectOption
+            name='Color'
+            placeholder={CartMock.color}
+            options={ColorMock}
+            disableLabel
+          />
         </Stack>
       </Stack>
       <Box display='flex' justifyContent='flex-end'>

@@ -4,7 +4,6 @@
 import React, { Fragment, memo, useEffect, useState } from 'react'
 import type { SystemStyleObject } from '@chakra-ui/react'
 import { Box, Flex, HStack } from '@chakra-ui/react'
-import type { StaticImageData } from 'next/image'
 import dynamic from 'next/dynamic'
 
 // Components
@@ -14,7 +13,7 @@ const ImageSlider = dynamic(() => import('@components/Slider/ImageSlider'))
 
 type TSlide = {
   id: string
-  image: StaticImageData
+  image: string
   imageAlt: string
   content: {
     title: string

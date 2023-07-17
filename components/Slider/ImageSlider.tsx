@@ -2,7 +2,6 @@
 import type { FunctionComponent } from 'react'
 import React, { memo } from 'react'
 import { Box } from '@chakra-ui/react'
-import type { StaticImageData } from 'next/image'
 import dynamic from 'next/dynamic'
 
 // Components
@@ -14,7 +13,7 @@ const Image = dynamic(() => import('@components/Common/Image'), {
 
 type TSlide = {
   id: string
-  image: StaticImageData
+  image: string
   imageAlt: string
   content: {
     title: string

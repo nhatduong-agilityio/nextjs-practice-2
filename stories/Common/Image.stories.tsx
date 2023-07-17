@@ -1,4 +1,3 @@
-import furniture1 from '@public/images/furniture-1.jpg'
 import Image from '@components/Common/Image'
 import type { Meta } from '@storybook/react'
 
@@ -10,7 +9,8 @@ const meta: Meta<typeof Image> = {
 export default meta
 
 const image = {
-  image: furniture1,
+  image:
+    'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffurniture-1.jpg?alt=media&token=80498422-2aa7-4cca-8888-ab8cd598aeb9',
   imageAlt: 'Picture of furniture chair leather',
 }
 

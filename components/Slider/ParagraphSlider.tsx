@@ -6,12 +6,11 @@ import React, { memo } from 'react'
 import NextLink from 'next/link'
 import type { SystemStyleObject } from '@chakra-ui/react'
 import { Box, Button, Heading, Text } from '@chakra-ui/react'
-import type { StaticImageData } from 'next/image'
 import ArrowForwardIcon from '../Icons/ArrowForwardIcon'
 
 type TSlide = {
   id: string
-  image: StaticImageData
+  image: string
   imageAlt: string
   content: {
     title: string

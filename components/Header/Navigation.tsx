@@ -14,7 +14,7 @@ interface IProps {
 const Navigation = memo(({ toggleMenu }: IProps) => (
   <>
     <HStack style={{ marginTop: '0' }} spacing='50px' display={['none', 'flex']}>
-      <NextLink href='/' passHref>
+      <NextLink href='/' passHref aria-label='cart'>
         <CartIcon
           width='24px'
           height='24px'
@@ -24,7 +24,7 @@ const Navigation = memo(({ toggleMenu }: IProps) => (
           strokeWidth='0.25'
         />
       </NextLink>
-      <NextLink href='/' passHref>
+      <NextLink href='/' passHref aria-label='wishlist'>
         <WishlistIcon width='24px' height='22px' viewBox='0 0 24 22' fill='black' stroke='black' />
       </NextLink>
       <HStack style={{ marginTop: '0' }} spacing='30px'>

@@ -1,13 +1,10 @@
-// Libs
-import type { StaticImageData } from 'next/legacy/image'
-
 export type TProduct = {
   id: string
   name: string
   category: string
   images: {
-    image: StaticImageData
-    listImage?: StaticImageData[]
+    image: string
+    listImage?: string[]
   }
   imageAlt: string
   description: string

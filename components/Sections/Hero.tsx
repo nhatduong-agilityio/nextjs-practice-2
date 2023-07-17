@@ -31,6 +31,11 @@ const Hero = () => (
           layout='fill'
           objectFit='cover'
           priority
+          style={{
+            width: '100%',
+            height: 'auto',
+          }}
+          placeholder='blur'
         />
       </Stack>
       <Stack

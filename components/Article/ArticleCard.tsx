@@ -9,7 +9,6 @@ import {
   VStack,
   HStack,
 } from '@chakra-ui/react'
-import type { StaticImageData } from 'next/legacy/image'
 import NextLink from 'next/link'
 
 // Components
@@ -19,7 +18,7 @@ import Image from '../Common/Image'
 type TArticle = {
   id: string
   title: string
-  image: StaticImageData
+  image: string
   imageAlt: string
   description: string
 }

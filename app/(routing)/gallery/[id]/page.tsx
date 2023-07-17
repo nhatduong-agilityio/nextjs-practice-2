@@ -5,6 +5,7 @@ import { fetcherInstanceAPI } from '@services/requests'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
+import { cache } from 'react'
 
 const ArticleDetailPage = dynamic(() => import('./ArticleDetailPage'))
 
@@ -22,13 +23,13 @@ export async function generateStaticParams() {
   }))
 }
 
-async function getArticle(params: { id: string }) {
+const getArticle = cache(async (params: { id: string }) => {
   const response: TArticle = await fetcherInstanceAPI({
     endpoint: `${ARTICLES_ENDPOINT}/${params.id}`,
   })
 
   return response
-}
+})
 
 export const generateMetadata = async (props: Props): Promise<Metadata> => {
   const { params } = props

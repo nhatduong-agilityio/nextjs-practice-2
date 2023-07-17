@@ -1,6 +1,5 @@
 // Libs
 import React, { memo } from 'react'
-import type { StaticImageData } from 'next/legacy/image'
 import NextLink from 'next/link'
 import { Heading } from '@chakra-ui/react'
 
@@ -8,7 +7,7 @@ import { Heading } from '@chakra-ui/react'
 import CategoryCardContainer from '@components/Category/ContainerCategoryCard'
 
 interface IProps {
-  srcImage: StaticImageData
+  srcImage: string
   imageAlt: string
   name: string
   pathLink: string

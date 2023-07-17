@@ -1,8 +1,6 @@
-import type { StaticImageData } from 'next/legacy/image'
-
 export type TSlide = {
   id: string
-  image: StaticImageData
+  image: string
   imageAlt: string
   content: {
     title: string

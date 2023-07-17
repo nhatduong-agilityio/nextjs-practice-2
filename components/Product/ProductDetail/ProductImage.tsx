@@ -1,13 +1,12 @@
 import { Box, Flex, Stack } from '@chakra-ui/react'
-import type { StaticImageData } from 'next/legacy/image'
 import React, { memo } from 'react'
 import { v4 as uuidv4 } from 'uuid'
 import Image from '@components/Common/Image'
 
 interface IProps {
-  image: StaticImageData
+  image: string
   altImage: string
-  listImage?: StaticImageData[]
+  listImage?: string[]
 }
 
 const ProductImage = memo(({ image, altImage, listImage }: IProps) => (

@@ -43,10 +43,10 @@ export const Text: ComponentStyleConfig = {
   },
   variants: {
     grayScheme: {
-      color: '#78788C',
+      color: '#54545F',
     },
     redScheme: {
-      color: 'red',
+      color: '#B30000',
     },
     greenScheme: {
       color: 'green',

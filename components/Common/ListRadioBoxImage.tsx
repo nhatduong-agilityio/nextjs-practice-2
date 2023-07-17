@@ -2,14 +2,13 @@
 import React, { memo } from 'react'
 import type { UseRadioProps } from '@chakra-ui/react'
 import { HStack, VStack } from '@chakra-ui/react'
-import type { StaticImageData } from 'next/legacy/image'
 import Image from 'next/legacy/image'
 import RadioBox from './RadioBox'
 
 type TRadioBoxImageList = {
   id: string
   value: string
-  image: StaticImageData
+  image: string
   altImage: string
 }
 

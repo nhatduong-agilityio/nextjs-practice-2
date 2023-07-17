@@ -79,7 +79,7 @@ const Header = () => {
             'flex',
           ]}
         >
-          <NextLink href='/' passHref>
+          <NextLink href='/' passHref aria-label='brand-store'>
             <Brand />
           </NextLink>
         </Stack>

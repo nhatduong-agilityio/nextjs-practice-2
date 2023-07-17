@@ -1,13 +1,12 @@
 import { Box } from '@chakra-ui/react'
 import React, { memo } from 'react'
-import type { StaticImageData } from 'next/legacy/image'
 import NextImage from 'next/legacy/image'
 
 interface IProps {
   width?: string | string[]
   height?: string | string[]
   alt: string
-  src: StaticImageData
+  src: string
   variant?: 'primary' | 'secondary'
 }
 
@@ -28,6 +27,10 @@ const Image = memo(({ width = '500px', height = '500px', alt, src, variant }: IP
       objectFit='cover'
       priority
       lazyBoundary='200px'
+      style={{
+        width: '100%',
+        height: 'auto',
+      }}
     />
   </Box>
 ))
