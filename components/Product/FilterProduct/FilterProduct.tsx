@@ -30,8 +30,8 @@ const convertCategoryOption = (obj: Object): TOption[] =>
 
 const categoryOptions = Object.entries(CategoriesMock).map(([key]) => {
   const chairOption = convertCategoryOption(CategoriesMock.CHAIR)
-  const destOption = convertCategoryOption(CategoriesMock.DEST)
-  const bedOption = convertCategoryOption(CategoriesMock.BEST)
+  const destOption = convertCategoryOption(CategoriesMock.DESK)
+  const bedOption = convertCategoryOption(CategoriesMock.Bed)
   const carpetOption = convertCategoryOption(CategoriesMock.CARPET)
   const sofaOption = convertCategoryOption(CategoriesMock.SOFA)
   const cupboardOption = convertCategoryOption(CategoriesMock.CUPBOARD)

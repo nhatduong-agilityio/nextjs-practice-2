@@ -19,7 +19,7 @@ const BestSellerProducts = ({ products }: IBestSellerProductsProps) => (
   <Container as='section' maxW='full' p={['25px 20px', '50px 100px']}>
     <Stack flexDir='row' justifyContent='space-between' alignItems='center' mb={['20px', '50px']}>
       <Heading variant={['extraBoldMD', 'extraBoldXL']} lineHeight='normal'>
-        Best Seller
+        Bed Seller
       </Heading>
       <NextLink href='/' passHref>
         <Text size={['14', '20']} fontWeight='SemiBold'>

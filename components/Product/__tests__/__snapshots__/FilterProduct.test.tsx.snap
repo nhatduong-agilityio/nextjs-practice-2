@@ -564,7 +564,7 @@ exports[`FilterProduct render Should FilterProduct match Snapshot 1`] = `
                   />
                 </svg>
               </span>
-              dest
+              desk
             </button>
             <div
               class="chakra-stack css-19pl6ik"
@@ -574,14 +574,14 @@ exports[`FilterProduct render Should FilterProduct match Snapshot 1`] = `
                 class="css-ie9luo"
               >
                 <a
-                  href="/product?category=Dest"
+                  href="/product?category=Desk"
                 >
                   <button
                     class="chakra-button css-1kezzwz"
                     style="padding-inline: 0;"
                     type="button"
                   >
-                    Dest
+                    Desk
                   </button>
                 </a>
               </div>
@@ -589,14 +589,14 @@ exports[`FilterProduct render Should FilterProduct match Snapshot 1`] = `
                 class="css-ie9luo"
               >
                 <a
-                  href="/product?category=Office+dest"
+                  href="/product?category=Office+desk"
                 >
                   <button
                     class="chakra-button css-1kezzwz"
                     style="padding-inline: 0;"
                     type="button"
                   >
-                    Office dest
+                    Office desk
                   </button>
                 </a>
               </div>
@@ -626,7 +626,7 @@ exports[`FilterProduct render Should FilterProduct match Snapshot 1`] = `
                   />
                 </svg>
               </span>
-              best
+              bed
             </button>
             <div
               class="chakra-stack css-19pl6ik"
@@ -636,14 +636,14 @@ exports[`FilterProduct render Should FilterProduct match Snapshot 1`] = `
                 class="css-ie9luo"
               >
                 <a
-                  href="/product?category=Best"
+                  href="/product?category=Bed"
                 >
                   <button
                     class="chakra-button css-1kezzwz"
                     style="padding-inline: 0;"
                     type="button"
                   >
-                    Best
+                    Bed
                   </button>
                 </a>
               </div>

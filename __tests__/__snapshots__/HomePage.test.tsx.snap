@@ -198,7 +198,7 @@ exports[`Home Should Home match snapshot 1`] = `
         <p
           class="chakra-text css-1yat2ee"
         >
-          We are the best furniture platform. We are already working on thousands of future home projects. Trust us, you will surely be satisfied
+          We are the bed furniture platform. We are already working on thousands of future home projects. Trust us, you will surely be satisfied
         </p>
         <div
           class="chakra-stack css-qleq0"
@@ -239,7 +239,7 @@ exports[`Home Should Home match snapshot 1`] = `
       <h2
         class="chakra-heading css-sohg42"
       >
-        Best Seller
+        Bed Seller
       </h2>
       <a
         href="/"
@@ -821,7 +821,7 @@ exports[`Home Should Home match snapshot 1`] = `
           style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
         >
           <img
-            alt="Picture of furniture office dest category"
+            alt="Picture of furniture office desk category"
             data-nimg="fill"
             decoding="async"
             sizes="100vw"
@@ -839,7 +839,7 @@ exports[`Home Should Home match snapshot 1`] = `
             <h2
               class="chakra-heading css-oe067m"
             >
-              Office dest
+              Office desk
             </h2>
           </a>
         </div>
@@ -1840,7 +1840,7 @@ exports[`Home Should Home match snapshot 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture dest category"
+              alt="Picture of furniture desk category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -1858,7 +1858,7 @@ exports[`Home Should Home match snapshot 1`] = `
               <h2
                 class="chakra-heading css-1wzltlp"
               >
-                Dest
+                Desk
               </h2>
               <button
                 class="chakra-button css-154azm5"
@@ -1902,7 +1902,7 @@ exports[`Home Should Home match snapshot 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture office dest category"
+              alt="Picture of furniture office desk category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -1920,7 +1920,7 @@ exports[`Home Should Home match snapshot 1`] = `
               <h2
                 class="chakra-heading css-1wzltlp"
               >
-                Office dest
+                Office desk
               </h2>
               <button
                 class="chakra-button css-154azm5"
@@ -1964,7 +1964,7 @@ exports[`Home Should Home match snapshot 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture best category"
+              alt="Picture of furniture bed category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -1982,7 +1982,7 @@ exports[`Home Should Home match snapshot 1`] = `
               <h2
                 class="chakra-heading css-1wzltlp"
               >
-                Best
+                Bed
               </h2>
               <button
                 class="chakra-button css-154azm5"
@@ -2026,7 +2026,7 @@ exports[`Home Should Home match snapshot 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture spring best category"
+              alt="Picture of furniture spring bed category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -2724,7 +2724,7 @@ exports[`Home Should Home match snapshot 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office"
+                alt="Picture of furniture desk office"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -2952,7 +2952,7 @@ exports[`Home Should Home match snapshot 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office2"
+                alt="Picture of furniture desk office2"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -3180,7 +3180,7 @@ exports[`Home Should Home match snapshot 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office3"
+                alt="Picture of furniture desk office3"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -3408,7 +3408,7 @@ exports[`Home Should Home match snapshot 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office4"
+                alt="Picture of furniture desk office4"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -3619,7 +3619,7 @@ exports[`Home Should render section Article 1`] = `
                       style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
                     >
                       <img
-                        alt="Picture of furniture dest office"
+                        alt="Picture of furniture desk office"
                         data-nimg="fill"
                         decoding="async"
                         sizes="100vw"
@@ -3935,7 +3935,7 @@ exports[`Home Should render section Article 1`] = `
 </div>
 `;
 
-exports[`Home Should render section Best Seller Products 1`] = `
+exports[`Home Should render section Bed Seller Products 1`] = `
 <div>
   <section
     class="chakra-container css-1a88hh"
@@ -3946,7 +3946,7 @@ exports[`Home Should render section Best Seller Products 1`] = `
       <h2
         class="chakra-heading css-sohg42"
       >
-        Best Seller
+        Bed Seller
       </h2>
       <a
         href="/"
@@ -4537,7 +4537,7 @@ exports[`Home Should render section Categories 1`] = `
           style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
         >
           <img
-            alt="Picture of furniture office dest category"
+            alt="Picture of furniture office desk category"
             data-nimg="fill"
             decoding="async"
             sizes="100vw"
@@ -4555,7 +4555,7 @@ exports[`Home Should render section Categories 1`] = `
             <h2
               class="chakra-heading css-oe067m"
             >
-              Office dest
+              Office desk
             </h2>
           </a>
         </div>
@@ -4844,7 +4844,7 @@ exports[`Home Should render section Categories Detail 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture dest category"
+              alt="Picture of furniture desk category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -4862,7 +4862,7 @@ exports[`Home Should render section Categories Detail 1`] = `
               <h2
                 class="chakra-heading css-1wzltlp"
               >
-                Dest
+                Desk
               </h2>
               <button
                 class="chakra-button css-154azm5"
@@ -4906,7 +4906,7 @@ exports[`Home Should render section Categories Detail 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture office dest category"
+              alt="Picture of furniture office desk category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -4924,7 +4924,7 @@ exports[`Home Should render section Categories Detail 1`] = `
               <h2
                 class="chakra-heading css-1wzltlp"
               >
-                Office dest
+                Office desk
               </h2>
               <button
                 class="chakra-button css-154azm5"
@@ -4968,7 +4968,7 @@ exports[`Home Should render section Categories Detail 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture best category"
+              alt="Picture of furniture bed category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -4986,7 +4986,7 @@ exports[`Home Should render section Categories Detail 1`] = `
               <h2
                 class="chakra-heading css-1wzltlp"
               >
-                Best
+                Bed
               </h2>
               <button
                 class="chakra-button css-154azm5"
@@ -5030,7 +5030,7 @@ exports[`Home Should render section Categories Detail 1`] = `
             style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
           >
             <img
-              alt="Picture of furniture spring best category"
+              alt="Picture of furniture spring bed category"
               data-nimg="fill"
               decoding="async"
               sizes="100vw"
@@ -5475,7 +5475,7 @@ exports[`Home Should render section Hero 1`] = `
         <p
           class="chakra-text css-1yat2ee"
         >
-          We are the best furniture platform. We are already working on thousands of future home projects. Trust us, you will surely be satisfied
+          We are the bed furniture platform. We are already working on thousands of future home projects. Trust us, you will surely be satisfied
         </p>
         <div
           class="chakra-stack css-qleq0"
@@ -5620,7 +5620,7 @@ exports[`Home Should render section List Article 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office"
+                alt="Picture of furniture desk office"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -5848,7 +5848,7 @@ exports[`Home Should render section List Article 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office2"
+                alt="Picture of furniture desk office2"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -6076,7 +6076,7 @@ exports[`Home Should render section List Article 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office3"
+                alt="Picture of furniture desk office3"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"
@@ -6304,7 +6304,7 @@ exports[`Home Should render section List Article 1`] = `
               style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
             >
               <img
-                alt="Picture of furniture dest office4"
+                alt="Picture of furniture desk office4"
                 data-nimg="fill"
                 decoding="async"
                 sizes="100vw"

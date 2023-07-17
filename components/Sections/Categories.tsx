@@ -26,9 +26,9 @@ const Categories = () => (
       pathLink='/'
     />
     <CategoryCard
-      srcImage={CategoriesMock.DEST.OFFICE.BG_IMAGE}
-      imageAlt={CategoriesMock.DEST.OFFICE.IMAGE_ALT}
-      name={CategoriesMock.DEST.OFFICE.NAME}
+      srcImage={CategoriesMock.DESK.OFFICE.BG_IMAGE}
+      imageAlt={CategoriesMock.DESK.OFFICE.IMAGE_ALT}
+      name={CategoriesMock.DESK.OFFICE.NAME}
       pathLink='/'
     />
   </Container>

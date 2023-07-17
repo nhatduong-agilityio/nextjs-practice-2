@@ -58,7 +58,7 @@ describe('Home', () => {
     expect(container).toMatchSnapshot()
   })
 
-  it('Should render section Best Seller Products', async () => {
+  it('Should render section Bed Seller Products', async () => {
     const { container } = render(<BestSellerProducts products={ProductsMock} />)
 
     expect(container).toMatchSnapshot()

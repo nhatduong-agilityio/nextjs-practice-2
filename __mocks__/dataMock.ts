@@ -8,7 +8,27 @@ import furniture4 from '@public/images/furniture-4.jpg'
 // Images
 import SOFA_GREY from '@public/images/bg-hero.png'
 import SOFA_GREEN from '@public/images/sofa-green.jpg'
+
 import CHAIR_YELLOW from '@public/images/chair-yellow.jpg'
+import OFFICE_CHAIR from '@public/images/office-chair.jpg'
+import FAMILY_CHAIR from '@public/images/family-chair.jpg'
+import READING_CHAIR from '@public/images/reading-chair.jpg'
+
+import DESK from '@public/images/desk.jpg'
+import OFFICE_DESK from '@public/images/office-desk.jpg'
+
+import BED from '@public/images/bed.jpg'
+import SPRING_BED from '@public/images/springbed.jpg'
+
+import CARPET from '@public/images/carpet.jpg'
+
+import CUPBOARD from '@public/images/cupboard.jpg'
+
+import ARTICLE_1 from '@public/images/article-1.jpg'
+import ARTICLE_2 from '@public/images/article-2.jpg'
+import ARTICLE_3 from '@public/images/article-3.jpg'
+import ARTICLE_4 from '@public/images/article-4.jpg'
+
 import ALFA_MART from '@public/images/alfa-mart.png'
 import INDO_MART from '@public/images/indomaret.png'
 import GOPAY from '@public/images/gopay.png'
@@ -33,7 +53,7 @@ export const SlideMock = [
   {
     id: uuidv4(),
     image: furniture2,
-    imageAlt: 'Picture of furniture dest office',
+    imageAlt: 'Picture of furniture desk office',
     content: {
       title: 'Japanese Cupboard1',
       description:
@@ -159,48 +179,48 @@ export const CategoriesMock = {
     },
     OFFICE: {
       NAME: 'Office Chair',
-      BG_IMAGE: CHAIR_YELLOW,
+      BG_IMAGE: OFFICE_CHAIR,
       IMAGE_ALT: 'Picture of furniture office chair category',
     },
     FAMILY: {
       NAME: 'Family Chair',
-      BG_IMAGE: CHAIR_YELLOW,
+      BG_IMAGE: FAMILY_CHAIR,
       IMAGE_ALT: 'Picture of furniture family chair category',
     },
     READING: {
       NAME: 'Reading Chair',
-      BG_IMAGE: CHAIR_YELLOW,
+      BG_IMAGE: READING_CHAIR,
       IMAGE_ALT: 'Picture of furniture reading chair category',
     },
   },
-  DEST: {
+  DESK: {
     ALL: {
-      NAME: 'Dest',
-      BG_IMAGE: SOFA_GREY,
-      IMAGE_ALT: 'Picture of furniture dest category',
+      NAME: 'Desk',
+      BG_IMAGE: DESK,
+      IMAGE_ALT: 'Picture of furniture desk category',
     },
     OFFICE: {
-      NAME: 'Office dest',
-      BG_IMAGE: SOFA_GREY,
-      IMAGE_ALT: 'Picture of furniture office dest category',
+      NAME: 'Office desk',
+      BG_IMAGE: OFFICE_DESK,
+      IMAGE_ALT: 'Picture of furniture office desk category',
     },
   },
-  BEST: {
+  Bed: {
     ALL: {
-      NAME: 'Best',
-      BG_IMAGE: SOFA_GREY,
-      IMAGE_ALT: 'Picture of furniture best category',
+      NAME: 'Bed',
+      BG_IMAGE: BED,
+      IMAGE_ALT: 'Picture of furniture bed category',
     },
     SPRING: {
       NAME: 'Springbed',
-      BG_IMAGE: SOFA_GREY,
-      IMAGE_ALT: 'Picture of furniture spring best category',
+      BG_IMAGE: SPRING_BED,
+      IMAGE_ALT: 'Picture of furniture spring bed category',
     },
   },
   CARPET: {
     ALL: {
       NAME: 'Carpet',
-      BG_IMAGE: SOFA_GREY,
+      BG_IMAGE: CARPET,
       IMAGE_ALT: 'Picture of furniture carpet category',
     },
   },
@@ -214,7 +234,7 @@ export const CategoriesMock = {
   CUPBOARD: {
     ALL: {
       NAME: 'Cupboard',
-      BG_IMAGE: SOFA_GREY,
+      BG_IMAGE: CUPBOARD,
       IMAGE_ALT: 'Picture of furniture cupboard category',
     },
   },
@@ -229,7 +249,7 @@ export const ProductsMock = [
       image: SOFA_GREEN,
       listImage: [SOFA_GREEN, SOFA_GREEN, SOFA_GREEN, SOFA_GREEN],
     },
-    imageAlt: 'Picture of Full set Grey Sofa With Pillows',
+    imageAlt: 'Picture of Green Slepper Sofa',
     description: 'Modern home in city center in the heart of historic Los Angele',
     details: [
       { id: uuidv4(), content: 'High Quality Leathers' },
@@ -250,9 +270,9 @@ export const ProductsMock = [
     category: 'Chair',
     images: {
       image: CHAIR_YELLOW,
-      listImage: [SOFA_GREEN, SOFA_GREEN, SOFA_GREEN, SOFA_GREEN],
+      listImage: [CHAIR_YELLOW, CHAIR_YELLOW, CHAIR_YELLOW, CHAIR_YELLOW],
     },
-    imageAlt: 'Picture of Full set Grey Sofa With Pillow',
+    imageAlt: 'Picture of Yellow Chair X Banana Kitty',
     description: 'Modern home in city center in the heart of historic Los Angeles',
     details: [
       { id: uuidv4(), content: 'High Quality Leathers2' },
@@ -273,7 +293,7 @@ export const ProductsMock = [
     category: 'Sofa',
     images: {
       image: SOFA_GREY,
-      listImage: [SOFA_GREEN, SOFA_GREEN, SOFA_GREEN, SOFA_GREEN],
+      listImage: [SOFA_GREY, SOFA_GREY, SOFA_GREY, SOFA_GREY],
     },
     imageAlt: 'Picture of Full set Grey Sofa With Pillow',
     description: 'Modern home in city center in the heart of historic Los Angeles',
@@ -292,13 +312,13 @@ export const ProductsMock = [
   },
   {
     id: '40e74e5f-d9c1-4469-a1ed-9e35a6dff789',
-    name: 'Fullset Grey Sofa',
-    category: 'Sofa',
+    name: 'Winter Carpet',
+    category: 'Carpet',
     images: {
-      image: SOFA_GREY,
-      listImage: [SOFA_GREEN, SOFA_GREEN, SOFA_GREEN, SOFA_GREEN],
+      image: CARPET,
+      listImage: [CARPET, CARPET, CARPET, CARPET],
     },
-    imageAlt: 'Picture of Full set Grey Sofa',
+    imageAlt: 'Picture of Winter Carpet',
     description: 'Modern home in city center',
     details: [
       { id: uuidv4(), content: 'High Quality Leathers4' },
@@ -306,7 +326,7 @@ export const ProductsMock = [
       { id: uuidv4(), content: 'High Quality Woods4' },
       { id: uuidv4(), content: 'Cheaps Price4' },
     ],
-    color: 'grey',
+    color: 'red',
     price: 820,
     discount: 3,
     sellCount: 400,
@@ -319,7 +339,7 @@ export const ArticlesMock = [
   {
     id: uuidv4(),
     title: 'Plants make the atmosphere of the house come alive',
-    image: SOFA_GREEN,
+    image: ARTICLE_1,
     imageAlt: 'Picture of furniture chair and table office',
     description:
       'Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -327,15 +347,15 @@ export const ArticlesMock = [
   {
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light',
-    image: SOFA_GREY,
-    imageAlt: 'Picture of furniture dest office',
+    image: ARTICLE_2,
+    imageAlt: 'Picture of furniture desk office',
     description:
       'Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
   },
   {
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive',
-    image: CHAIR_YELLOW,
+    image: ARTICLE_3,
     imageAlt: 'Picture of furniture sofa',
     description:
       'Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -343,7 +363,7 @@ export const ArticlesMock = [
   {
     id: uuidv4(),
     title: 'Plants make the atmosphere of the house come alive2',
-    image: SOFA_GREEN,
+    image: ARTICLE_4,
     imageAlt: 'Picture of furniture chair and table office2',
     description:
       '2Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -351,15 +371,15 @@ export const ArticlesMock = [
   {
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light2',
-    image: SOFA_GREY,
-    imageAlt: 'Picture of furniture dest office2',
+    image: DESK,
+    imageAlt: 'Picture of furniture desk office2',
     description:
       '2Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
   },
   {
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive2',
-    image: CHAIR_YELLOW,
+    image: CARPET,
     imageAlt: 'Picture of furniture sofa2',
     description:
       '2Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -367,7 +387,7 @@ export const ArticlesMock = [
   {
     id: uuidv4(),
     title: 'Plants make the atmosphere of the house come alive3',
-    image: SOFA_GREEN,
+    image: CUPBOARD,
     imageAlt: 'Picture of furniture chair and table office3',
     description:
       '3Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -375,15 +395,15 @@ export const ArticlesMock = [
   {
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light3',
-    image: SOFA_GREY,
-    imageAlt: 'Picture of furniture dest office3',
+    image: READING_CHAIR,
+    imageAlt: 'Picture of furniture desk office3',
     description:
       '3Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
   },
   {
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive3',
-    image: CHAIR_YELLOW,
+    image: SPRING_BED,
     imageAlt: 'Picture of furniture sofa3',
     description:
       '3Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -400,7 +420,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light4',
     image: SOFA_GREY,
-    imageAlt: 'Picture of furniture dest office4',
+    imageAlt: 'Picture of furniture desk office4',
     description:
       '4Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
   },

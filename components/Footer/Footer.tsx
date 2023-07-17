@@ -46,7 +46,7 @@ const Footer = () => (
             </HStack>
           </NextLink>
           <Text pt='25px' size={['14', '16']} maxWidth={['full', '313px']}>
-            We are the best furniture platform. We are already working on thousands of future home
+            We are the bed furniture platform. We are already working on thousands of future home
             projects. Trust us, you will surely be satisfied
           </Text>
         </Stack>

@@ -1,13 +1,13 @@
 // Libs
 import React from 'react'
 import {
-  Button,
   Card as ChakraCard,
   CardBody,
   CardHeader,
   Heading,
   Text,
   VStack,
+  HStack,
 } from '@chakra-ui/react'
 import type { StaticImageData } from 'next/legacy/image'
 import NextLink from 'next/link'
@@ -27,10 +27,9 @@ type TArticle = {
 interface IProps {
   item: TArticle
   pathLink?: string
-  nameLink?: string
 }
 
-const ArticleCard = ({ item, pathLink, nameLink }: IProps) => (
+const ArticleCard = ({ item, pathLink }: IProps) => (
   <ChakraCard boxShadow='none'>
     <CardHeader p={0} flexDir='row'>
       <Image
@@ -51,28 +50,18 @@ const ArticleCard = ({ item, pathLink, nameLink }: IProps) => (
         </Text>
         {pathLink && (
           <NextLink href={pathLink} passHref>
-            <Button
-              rightIcon={
-                <ArrowForwardIcon
-                  width={['16px', '20px']}
-                  height={['16px', '20px']}
-                  viewBox='0 0 14 10'
-                  fill='black'
-                  ml='10px'
-                />
-              }
-              variant='ghost'
-              color='black'
-              justifyContent='start'
-              height='fit-content'
-              style={{
-                paddingInline: 0,
-              }}
-              pt='15px'
-              fontSize={['16px', '18px']}
-            >
-              {nameLink || 'Read More'}
-            </Button>
+            <HStack flex='row' pt='15px' fontSize={['16px', '18px']}>
+              <Text size={['16', '18']} noOfLines={1} maxW='80%' variant='small'>
+                Read more about {item.title}
+              </Text>
+              <ArrowForwardIcon
+                width={['16px', '20px']}
+                height={['16px', '20px']}
+                viewBox='0 0 14 10'
+                fill='black'
+                ml='10px'
+              />
+            </HStack>
           </NextLink>
         )}
       </VStack>

@@ -89,7 +89,7 @@ const Hero = () => (
           whiteSpace='pre-wrap'
           lineHeight='32px'
         >
-          We are the best furniture platform. We are already working on thousands of future home
+          We are the bed furniture platform. We are already working on thousands of future home
           projects. Trust us, you will surely be satisfied
         </Text>
         <Stack
