@@ -36,7 +36,7 @@ export const metadata: Metadata = {
 async function getData() {
   const articles: TArticles = await fetcherInstanceAPI({
     endpoint: ARTICLES_ENDPOINT,
-    fetchingMethod: 'SSR',
+    fetchingMethod: 'ISR',
   })
 
   const products: TProducts = await ProductsMock

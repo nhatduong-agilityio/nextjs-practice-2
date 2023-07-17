@@ -17,7 +17,7 @@ export default async function articlesHandler(req: NextApiRequest, res: NextApiR
     try {
       const data: TArticles = await fetcherInstanceAPI({
         endpoint: `${ARTICLES_ENDPOINT}`,
-        fetchingMethod: 'SSR',
+        fetchingMethod: 'ISR',
       })
       if (data) {
         return res.status(SUCCESS_RESPONSE.OK).json(data)
