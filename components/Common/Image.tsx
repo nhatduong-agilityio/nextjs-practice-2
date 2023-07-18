@@ -22,7 +22,7 @@ const Image = memo(({ width = '500px', height = '500px', alt, src, variant }: IP
     <NextImage
       alt={alt}
       src={src}
-      sizes='100vw'
+      sizes='(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw'
       layout='fill'
       objectFit='cover'
       priority

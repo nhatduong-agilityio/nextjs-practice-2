@@ -45,7 +45,7 @@ export const CartMock = {
   category: 'Sofa',
   images: {
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=74327cb3-d85e-45a3-bfb5-b01010c77e3b',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=c2479cc5-ceb6-414f-bc97-5113599d35a5',
   },
   imageAlt: 'Picture of Full set Grey Sofa With Pillows',
   description: 'Modern home in city center in the heart of historic Los Angele',
@@ -67,7 +67,7 @@ export const SlideMock = [
   {
     id: uuidv4(),
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffurniture-1.jpg?alt=media&token=80498422-2aa7-4cca-8888-ab8cd598aeb9',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Ffurniture-1.jpg?alt=media&token=7bcafb51-3ee9-4916-8c7c-826c441de454',
     imageAlt: 'Picture of furniture chair leather',
     content: {
       title: 'Japanese Cupboard',
@@ -78,7 +78,7 @@ export const SlideMock = [
   {
     id: uuidv4(),
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffurniture-2.jpg?alt=media&token=c9fc0710-acac-41c7-9ed6-055cab3090c7',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Ffurniture-2.jpg?alt=media&token=dc12d663-9439-4af6-b045-b029e68dd7ea',
     imageAlt: 'Picture of furniture desk office',
     content: {
       title: 'Japanese Cupboard1',
@@ -89,7 +89,7 @@ export const SlideMock = [
   {
     id: uuidv4(),
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffurniture-3.jpg?alt=media&token=f732d0ee-6d35-4bd3-9e81-8dbf2d8b80ec',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Ffurniture-3.jpg?alt=media&token=c779d10a-f089-45ab-bc5c-fb950d212b6f',
     imageAlt: 'Picture of furniture sofa leather',
     content: {
       title: 'Japanese Cupboard2',
@@ -100,7 +100,7 @@ export const SlideMock = [
   {
     id: uuidv4(),
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffurniture-4.jpg?alt=media&token=5b255243-d0e3-4b6a-8643-aa58d099d9ff',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Ffurniture-4.jpg?alt=media&token=57963afa-5ffc-49aa-ba0e-286ed5fd0fe4',
     imageAlt: 'Picture of furniture chair office',
     content: {
       title: 'Japanese Cupboard3',
@@ -203,25 +203,25 @@ export const CategoriesMock = {
     ALL: {
       NAME: 'Chair',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
       IMAGE_ALT: 'Picture of furniture chair category',
     },
     OFFICE: {
       NAME: 'Office Chair',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Foffice-chair.jpg?alt=media&token=fac054e4-11e5-4a77-afec-ed3a9db71b19',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Foffice-chair.jpg?alt=media&token=2471a85a-3849-4de0-ac7f-ab34fbfd27ea',
       IMAGE_ALT: 'Picture of furniture office chair category',
     },
     FAMILY: {
       NAME: 'Family Chair',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffamily-chair.jpg?alt=media&token=fd644fda-885f-420b-a1ff-24777ca006a3',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Ffamily-chair.jpg?alt=media&token=e65d33c6-3e75-4287-a0c8-5faf7ab15a61',
       IMAGE_ALT: 'Picture of furniture family chair category',
     },
     READING: {
       NAME: 'Reading Chair',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Freading-chair.jpg?alt=media&token=f4a6d352-ebfc-44bd-a487-da8d8148c5f7',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Freading-chair.jpg?alt=media&token=c3ef931d-0ace-4ba1-b7b9-84806972c3da',
       IMAGE_ALT: 'Picture of furniture reading chair category',
     },
   },
@@ -229,13 +229,13 @@ export const CategoriesMock = {
     ALL: {
       NAME: 'Desk',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fdesk.jpg?alt=media&token=f0a2a298-9e41-4d45-9dd1-8110aaafaab1',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fdesk.jpg?alt=media&token=2dfeecf5-d39f-4ade-b035-cd782e8517e0',
       IMAGE_ALT: 'Picture of furniture desk category',
     },
     OFFICE: {
       NAME: 'Office desk',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Foffice-desk.jpg?alt=media&token=642b7de7-fecd-4c3a-a1e1-2eb7f6b9db00',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Foffice-desk.jpg?alt=media&token=54d7c2f2-afb6-486f-b994-cf3ede2a7f36',
       IMAGE_ALT: 'Picture of furniture office desk category',
     },
   },
@@ -243,13 +243,13 @@ export const CategoriesMock = {
     ALL: {
       NAME: 'Bed',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbed.jpg?alt=media&token=586f27e1-1e58-418d-bdaa-0ed97350a695',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbed.jpg?alt=media&token=217c4178-6b90-4565-8e70-0caa1c73316f',
       IMAGE_ALT: 'Picture of furniture bed category',
     },
     SPRING: {
       NAME: 'Springbed',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fspringbed.jpg?alt=media&token=808d9fb9-14da-4386-8a37-69ab393df3cb',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fspringbed.jpg?alt=media&token=0a8d06c7-a0b4-4b6f-86a9-27682c450217',
       IMAGE_ALT: 'Picture of furniture spring bed category',
     },
   },
@@ -257,7 +257,7 @@ export const CategoriesMock = {
     ALL: {
       NAME: 'Carpet',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
       IMAGE_ALT: 'Picture of furniture carpet category',
     },
   },
@@ -265,7 +265,7 @@ export const CategoriesMock = {
     ALL: {
       NAME: 'Sofa',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
       IMAGE_ALT: 'Picture of furniture sofa category',
     },
   },
@@ -273,7 +273,7 @@ export const CategoriesMock = {
     ALL: {
       NAME: 'Cupboard',
       BG_IMAGE:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcupboard.jpg?alt=media&token=c1f228fc-b5e9-4804-aaf6-17a898d5024b',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcupboard.jpg?alt=media&token=6694692a-d03e-41d0-9a2c-f3dd7bd546a4',
       IMAGE_ALT: 'Picture of furniture cupboard category',
     },
   },
@@ -286,12 +286,12 @@ export const ProductsMock = [
     category: 'Sofa',
     images: {
       image:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=74327cb3-d85e-45a3-bfb5-b01010c77e3b',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=c2479cc5-ceb6-414f-bc97-5113599d35a5',
       listImage: [
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=74327cb3-d85e-45a3-bfb5-b01010c77e3b',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=74327cb3-d85e-45a3-bfb5-b01010c77e3b',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=74327cb3-d85e-45a3-bfb5-b01010c77e3b',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=74327cb3-d85e-45a3-bfb5-b01010c77e3b',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=c2479cc5-ceb6-414f-bc97-5113599d35a5',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=c2479cc5-ceb6-414f-bc97-5113599d35a5',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=c2479cc5-ceb6-414f-bc97-5113599d35a5',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fsofa-green.jpg?alt=media&token=c2479cc5-ceb6-414f-bc97-5113599d35a5',
       ],
     },
     imageAlt: 'Picture of Green Slepper Sofa',
@@ -315,12 +315,12 @@ export const ProductsMock = [
     category: 'Chair',
     images: {
       image:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
       listImage: [
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
       ],
     },
     imageAlt: 'Picture of Yellow Chair X Banana Kitty',
@@ -344,12 +344,12 @@ export const ProductsMock = [
     category: 'Sofa',
     images: {
       image:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
       listImage: [
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
       ],
     },
     imageAlt: 'Picture of Full set Grey Sofa With Pillow',
@@ -373,12 +373,12 @@ export const ProductsMock = [
     category: 'Carpet',
     images: {
       image:
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
       listImage: [
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
-        'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
+        'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
       ],
     },
     imageAlt: 'Picture of Winter Carpet',
@@ -403,7 +403,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Plants make the atmosphere of the house come alive',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Farticle-1.jpg?alt=media&token=770ae6fb-042a-438c-bd3f-d29d3b1368e5',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Farticle-1.jpg?alt=media&token=c1a5e572-6861-4b4d-86da-b047368f8a2c',
     imageAlt: 'Picture of furniture chair and table office',
     description:
       'Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -412,7 +412,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Farticle-2.jpg?alt=media&token=423e3185-6c78-4c98-b46e-91a4373b551b',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Farticle-2.jpg?alt=media&token=e8e0d53b-a13f-4d97-84b3-a0768d732c12',
     imageAlt: 'Picture of furniture desk office',
     description:
       'Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
@@ -421,7 +421,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Farticle-3.jpg?alt=media&token=2bfc45b7-8afb-4d56-8d6e-657104072056',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Farticle-3.jpg?alt=media&token=a65665dd-db86-475c-ad2f-0e7c16bd2815',
     imageAlt: 'Picture of furniture sofa',
     description:
       'Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -430,7 +430,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Plants make the atmosphere of the house come alive2',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Farticle-4.jpg?alt=media&token=c87b1214-7d85-4322-b797-b820e6760622',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Farticle-4.jpg?alt=media&token=7bfd6950-78f0-4dba-a072-3f0527e0ca25',
     imageAlt: 'Picture of furniture chair and table office2',
     description:
       '2Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -439,7 +439,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light2',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fdesk.jpg?alt=media&token=f0a2a298-9e41-4d45-9dd1-8110aaafaab1',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fdesk.jpg?alt=media&token=2dfeecf5-d39f-4ade-b035-cd782e8517e0',
     imageAlt: 'Picture of furniture desk office2',
     description:
       '2Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
@@ -448,7 +448,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive2',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=066049a5-e737-4147-9338-a6702c34380f',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcarpet.jpg?alt=media&token=ec0868f8-5a5a-4603-9a6a-e353c4787903',
     imageAlt: 'Picture of furniture sofa2',
     description:
       '2Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -457,7 +457,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Plants make the atmosphere of the house come alive3',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fcupboard.jpg?alt=media&token=c1f228fc-b5e9-4804-aaf6-17a898d5024b',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fcupboard.jpg?alt=media&token=6694692a-d03e-41d0-9a2c-f3dd7bd546a4',
     imageAlt: 'Picture of furniture chair and table office3',
     description:
       '3Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -466,7 +466,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light3',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Freading-chair.jpg?alt=media&token=f4a6d352-ebfc-44bd-a487-da8d8148c5f7',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Freading-chair.jpg?alt=media&token=c3ef931d-0ace-4ba1-b7b9-84806972c3da',
     imageAlt: 'Picture of furniture desk office3',
     description:
       '3Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
@@ -475,7 +475,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive3',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fspringbed.jpg?alt=media&token=808d9fb9-14da-4386-8a37-69ab393df3cb',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fspringbed.jpg?alt=media&token=0a8d06c7-a0b4-4b6f-86a9-27682c450217',
     imageAlt: 'Picture of furniture sofa3',
     description:
       '3Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -493,7 +493,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Good Lighting Makes The Home More Light4',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbg-hero.png?alt=media&token=4c7db115-1628-4f10-9240-08a48d4ac0d1',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbg-hero.png?alt=media&token=c2146a23-01bf-4394-af0d-ccbe6aff7b36',
     imageAlt: 'Picture of furniture desk office4',
     description:
       '4Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off.',
@@ -502,7 +502,7 @@ export const ArticlesMock = [
     id: uuidv4(),
     title: 'Classic Style Makes Houses Look More Expensive4',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=c97cf937-78e2-4d88-bd81-ac25a3b2299d',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
     imageAlt: 'Picture of furniture sofa4',
     description:
       '4Houseplants are good for your health — and not just for their visual beauty. Why? They essentially do the opposite of what we do when we breathe: release oxygen and absorb carbon dioxide. This not only freshens up the air, but also eliminates harmful toxins. Extensive research by NASA has revealed that houseplants can remove up to 87 per cent of air toxin in 24 hours. Studies have also proven that indoor plants improve concentration and productivity (by up to 15 percent!), reduce stress levels and boost your mood — making them perfect for not just your home but your work space, too. At work, place plants, especially those with broad leaves, on your desk; they will help regulate humidity and increase levels of positivity — seeing greenery and nature help us feel more relaxed and calm, which in turn benefits your every day mood. Indoor plants serve a practical and aesthetic purpose, and will enhance your life. How to Create your Personal Plant Sanctuary. An indoor garden can be your refuge from the outside world, and for many people it is a source of great joy. Whether you live in a small apartment, or a large house, by introducing certain plants into your home, you will start to notice improvements to your health, and overall happiness. As well as enhancing your mood and creating a living space that is soothing to be in, plants can also help with loneliness and depression: caring for a living thing gives us a purpose and is rewarding — especially when you see that living thing bloom and thrive. choose the right plants for the an optimal nights sleep. Although plants release oxygen during the day, it is worth remembering that, at night, when photosynthesis stops, most plants switch things up and release carbon dioxide. However plants such as orchids, succulents, snake plants and bromeliads do the opposite and emit oxygen, making them perfect plants for the bedroom (and getting better sleep). Beware of too much sun. Most indoor plants don’t like direct midday sun, so please be wary of this when placing plants in your home. There are very obvious warning signs to look out for, such as leaf burn, spotting or sudden leaf-fall. Most plants can be easily rescued, so don’t panic! Often it is a case of not watering them too much, or letting the soil dry out a bit if it is feeling too soggy. Check if your plant is sitting by a cold draft as this can case the leaves to curl and eventually drop off. Organic fertilizers are a great way to revive your plants.',
@@ -514,14 +514,14 @@ export const MiniMarketMock = [
     id: uuidv4(),
     value: 'alfaMart',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Falfa-mart.png?alt=media&token=9b048c66-4c5c-4e9b-a09e-1ddb83ff3524',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Falfa-mart.png?alt=media&token=1c0b2cba-977f-402d-a457-132d103de31b',
     altImage: 'Logo brand of Alfa Mart',
   },
   {
     id: uuidv4(),
     value: 'indoMaret',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Findomaret.png?alt=media&token=7c053710-efe1-4db1-851a-9c794a0cbf08',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Findomaret.png?alt=media&token=651463b6-7b3d-44ac-a038-28aff66b4fbd',
     altImage: 'Logo brand of Indo Maret',
   },
 ]
@@ -538,14 +538,14 @@ export const DigitalWalletMock = [
     id: uuidv4(),
     value: 'ovo',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fovo.png?alt=media&token=052c5f08-df30-4c0a-bf33-2cd659e8c200',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fovo.png?alt=media&token=cf38fe11-dc6e-448a-bcd4-ec918a0535e4',
     altImage: 'Logo brand of Ovo',
   },
   {
     id: uuidv4(),
     value: 'linkAja',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Flink-aja.png?alt=media&token=06b2663c-7b3b-4c3e-8411-747090c471b2',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Flink-aja.png?alt=media&token=209d51fd-b7d3-412c-afb9-f92bbb896d33',
     altImage: 'Logo brand of Link Aja',
   },
 ]
@@ -555,21 +555,21 @@ export const BankMock = [
     id: uuidv4(),
     value: 'bca',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbca-bank.png?alt=media&token=c3e7c3ba-ea25-4b97-9d4e-56429c2c95b1',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbca-bank.png?alt=media&token=fbadf89a-1723-4760-868b-faa407bd004a',
     altImage: 'Logo brand of Bca Bank',
   },
   {
     id: uuidv4(),
     value: 'mandiri',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fmandiri-bank.png?alt=media&token=f8662f51-bf25-4d29-be6a-d708bb0f4d6f',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fmandiri-bank.png?alt=media&token=7d9fd118-5cba-484b-a775-81372ffd92c8',
     altImage: 'Logo brand of Mandiri Bank',
   },
   {
     id: uuidv4(),
     value: 'bri',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fbri-bank.png?alt=media&token=dee39c51-5c71-4b2e-a192-f332f8ab2a7b',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fbri-bank.png?alt=media&token=637eb850-660a-4d5c-ac4d-7db1844a8d87',
     altImage: 'Logo brand of Bri Bank',
   },
 ]
@@ -579,7 +579,7 @@ export const PaymentMock = [
     id: uuidv4(),
     value: 'payPal',
     image:
-      'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Fpaypal.png?alt=media&token=1940655d-b9b6-4b89-b115-a905db4a68a3',
+      'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fpaypal.png?alt=media&token=300e38ad-6415-44b4-b44e-095012e3fb9c',
     altImage: 'Logo brand of Paypal',
   },
 ]

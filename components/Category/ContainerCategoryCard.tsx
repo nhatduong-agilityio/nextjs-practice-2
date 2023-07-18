@@ -27,7 +27,7 @@ const ContainerCardCategory = ({
       <Image
         src={srcImage}
         alt={imageAlt}
-        sizes='100vw'
+        sizes='(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw'
         layout='fill'
         objectFit='cover'
         priority
