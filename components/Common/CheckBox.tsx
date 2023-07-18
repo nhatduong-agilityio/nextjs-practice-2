@@ -1,8 +1,8 @@
 import type { UseCheckboxProps } from '@chakra-ui/react'
 import { Box, chakra, Flex, Text, useCheckbox } from '@chakra-ui/react'
-import React from 'react'
+import React, { memo } from 'react'
 
-const CheckBox = (props: UseCheckboxProps) => {
+const CheckBox = memo((props: UseCheckboxProps) => {
   const { state, getCheckboxProps, getInputProps, getLabelProps, htmlProps } = useCheckbox(props)
   const { name } = props
 
@@ -37,6 +37,8 @@ const CheckBox = (props: UseCheckboxProps) => {
       </Text>
     </chakra.label>
   )
-}
+})
+
+CheckBox.displayName = 'CheckBox'
 
 export default CheckBox

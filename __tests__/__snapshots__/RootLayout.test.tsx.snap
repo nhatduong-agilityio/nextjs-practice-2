@@ -20,6 +20,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
           }
         >
           <a
+            aria-label="brand-store"
             href="/"
             onClick={[Function]}
             onMouseEnter={[Function]}
@@ -277,6 +278,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
           }
         >
           <a
+            aria-label="cart"
             href="/"
             onClick={[Function]}
             onMouseEnter={[Function]}
@@ -315,6 +317,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
             </svg>
           </a>
           <a
+            aria-label="wishlist"
             href="/"
             onClick={[Function]}
             onMouseEnter={[Function]}
@@ -340,7 +343,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
             }
           >
             <a
-              href="/"
+              href="/signin"
               onClick={[Function]}
               onMouseEnter={[Function]}
               onTouchStart={[Function]}
@@ -358,7 +361,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
               </button>
             </a>
             <a
-              href="/"
+              href="/signin"
               onClick={[Function]}
               onMouseEnter={[Function]}
               onTouchStart={[Function]}
@@ -447,6 +450,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
             className="chakra-stack css-8g8ihq"
           >
             <a
+              aria-label="brand-store"
               href="/"
               onClick={[Function]}
               onMouseEnter={[Function]}
@@ -863,6 +867,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
                   }
                 >
                   <a
+                    aria-label="social-fb"
                     href="/"
                     onClick={[Function]}
                     onMouseEnter={[Function]}
@@ -879,6 +884,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
                     </svg>
                   </a>
                   <a
+                    aria-label="social-tw"
                     href="/"
                     onClick={[Function]}
                     onMouseEnter={[Function]}
@@ -895,6 +901,7 @@ exports[`Auth Layout render RootLayout should match snapshot 1`] = `
                     </svg>
                   </a>
                   <a
+                    aria-label="social-li"
                     href="/"
                     onClick={[Function]}
                     onMouseEnter={[Function]}

@@ -2,7 +2,8 @@
 
 // Libs
 import React, { Fragment, memo } from 'react'
-import { Container, Heading, SimpleGrid, Stack } from '@chakra-ui/react'
+import { Container, Heading, SimpleGrid, Stack, Text } from '@chakra-ui/react'
+import NextLink from 'next/link'
 
 // Components
 import ArticleCard from '@components/Article/ArticleCard'
@@ -16,9 +17,20 @@ interface IListArticlesProps {
 }
 
 const ListArticles = memo(({ articles }: IListArticlesProps) => (
-  <Container maxW='full' display='flex' flexDir='column' p={['50px 20px', '50px 100px']}>
-    <Stack flexDir='row' justifyContent='flex-start' alignItems='center' mb={['20px', '50px']}>
+  <Container
+    as='section'
+    maxW='full'
+    display='flex'
+    flexDir='column'
+    p={['50px 20px', '50px 100px']}
+  >
+    <Stack flexDir='row' justifyContent='space-between' alignItems='center' mb={['20px', '50px']}>
       <Heading variant={['extraBoldMD', 'extraBoldXL']}>Articles</Heading>
+      <NextLink href={PAGE_URL.GALLERY.URL} passHref>
+        <Text size={['14', '20']} fontWeight='SemiBold'>
+          See All
+        </Text>
+      </NextLink>
     </Stack>
     <SimpleGrid columns={[1, 3, 3]} spacingY={['20px', '50px']} spacingX={['20px', '27px']}>
       {articles?.map((item) => (

@@ -55,7 +55,10 @@ interface IFilterProduct {
 const FilterProduct = memo(({ products }: IFilterProduct): JSX.Element => {
   const searchParams = useSearchParams()!
 
-  const search = searchParams && searchParams.get('category')?.toString()
+  const search = useMemo(
+    () => searchParams && searchParams.get('category')?.toString(),
+    [searchParams],
+  )
 
   const productCategories = useMemo(() => products?.map((product) => product.category), [products])
 

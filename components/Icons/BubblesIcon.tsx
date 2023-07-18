@@ -1,9 +1,9 @@
 // Libs
-import React from 'react'
+import React, { memo } from 'react'
 import type { IconProps } from '@chakra-ui/react'
 import { Icon } from '@chakra-ui/react'
 
-const BubblesIcon = (propsIcon: IconProps) => (
+const BubblesIcon = memo((propsIcon: IconProps) => (
   <Icon {...propsIcon}>
     <circle cx='7.5' cy='7.5' r='7.5' transform='matrix(-1 0 0 1 235 0)' />
     <circle cx='7.5' cy='7.5' r='7.5' transform='matrix(-1 0 0 1 235 110)' />
@@ -31,7 +31,7 @@ const BubblesIcon = (propsIcon: IconProps) => (
     <circle cx='7.5' cy='7.5' r='7.5' transform='matrix(-1 0 0 1 15 165)' />
     <circle cx='7.5' cy='7.5' r='7.5' transform='matrix(-1 0 0 1 15 220)' />
   </Icon>
-)
+))
 
 BubblesIcon.displayName = 'BubblesIcon'
 

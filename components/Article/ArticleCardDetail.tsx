@@ -1,5 +1,5 @@
 import { Flex, Heading, Text } from '@chakra-ui/react'
-import React from 'react'
+import React, { memo } from 'react'
 import Image from '@components/Common/Image'
 import type { TArticle } from '@matched-types/articles'
 
@@ -7,7 +7,7 @@ interface IProps {
   item: TArticle
 }
 
-const ArticleCardDetail = ({ item }: IProps) => (
+const ArticleCardDetail = memo(({ item }: IProps) => (
   <Flex flexDir='column' w='full'>
     <Image
       alt={item.imageAlt}
@@ -23,6 +23,8 @@ const ArticleCardDetail = ({ item }: IProps) => (
       {item.description}
     </Text>
   </Flex>
-)
+))
+
+ArticleCardDetail.displayName = 'ArticleCardDetail'
 
 export default ArticleCardDetail

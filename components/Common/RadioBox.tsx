@@ -1,9 +1,9 @@
 // Libs
-import React from 'react'
+import React, { memo } from 'react'
 import type { UseRadioProps } from '@chakra-ui/react'
 import { useRadio, chakra, Box, Flex } from '@chakra-ui/react'
 
-const RadioBox = (props: UseRadioProps) => {
+const RadioBox = memo((props: UseRadioProps) => {
   const { ...radioProps } = props
   const { state, getInputProps, getCheckboxProps, htmlProps } = useRadio(radioProps)
 
@@ -24,7 +24,8 @@ const RadioBox = (props: UseRadioProps) => {
       </Flex>
     </chakra.label>
   )
-}
+})
+
 RadioBox.displayName = 'RadioBox'
 
 export default RadioBox

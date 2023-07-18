@@ -25,7 +25,9 @@ describe('ProductDetail', () => {
       params: { id: '6509d2a1-2fdd-45f6-b285-d9a0449eaa43' },
     }
 
-    const view = render(<ProductDetail {...props} />)
+    const element = await ProductDetail(props)
+
+    const view = render(element)
 
     await waitFor(() => {
       wrapper = view

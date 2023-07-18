@@ -1,5 +1,5 @@
 import { Box, Flex, Heading, Text } from '@chakra-ui/react'
-import React, { Fragment, memo } from 'react'
+import React, { Fragment, memo, useMemo } from 'react'
 import { v4 as uuidv4 } from 'uuid'
 import StarIcon from '@components/Icons/StarIcon'
 
@@ -12,10 +12,10 @@ interface IProps {
 
 const ProductMainContent = memo(({ rating, discount, price, sellCount }: IProps) => {
   // valid sales percent
-  const validDiscount = discount > 0 && discount <= 100
+  const validDiscount = useMemo(() => discount > 0 && discount <= 100, [discount])
 
   // calculator price
-  const salePrice = price - (price * discount) / 100
+  const salePrice = useMemo(() => price - (price * discount) / 100, [discount, price])
 
   return (
     <Box w='full' style={{ margin: 0 }}>

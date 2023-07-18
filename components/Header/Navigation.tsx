@@ -6,6 +6,7 @@ import NextLink from 'next/link'
 import CartIcon from '@components/Icons/CartIcon'
 import WishlistIcon from '@components/Icons/WishlistIcon'
 import UserLinks from '@components/Header/UserLinks'
+import { PAGE_URL } from '@constants/routes'
 
 interface IProps {
   toggleMenu: boolean
@@ -29,7 +30,7 @@ const Navigation = memo(({ toggleMenu }: IProps) => (
       </NextLink>
       <HStack style={{ marginTop: '0' }} spacing='30px'>
         <NextLink
-          href='/'
+          href={PAGE_URL.SIGNIN.URL}
           passHref
           style={{
             width: '100%',
@@ -46,7 +47,7 @@ const Navigation = memo(({ toggleMenu }: IProps) => (
           </Button>
         </NextLink>
         <NextLink
-          href='/'
+          href={PAGE_URL.SIGNIN.URL}
           passHref
           style={{
             width: '100%',

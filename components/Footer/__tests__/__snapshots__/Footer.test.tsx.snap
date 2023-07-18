@@ -15,6 +15,7 @@ exports[`Footer Should Footer match Snapshot 1`] = `
           class="chakra-stack css-8g8ihq"
         >
           <a
+            aria-label="brand-store"
             href="/"
           >
             <div
@@ -369,6 +370,7 @@ exports[`Footer Should Footer match Snapshot 1`] = `
                 style="margin: 0px;"
               >
                 <a
+                  aria-label="social-fb"
                   href="/"
                 >
                   <svg
@@ -382,6 +384,7 @@ exports[`Footer Should Footer match Snapshot 1`] = `
                   </svg>
                 </a>
                 <a
+                  aria-label="social-tw"
                   href="/"
                 >
                   <svg
@@ -395,6 +398,7 @@ exports[`Footer Should Footer match Snapshot 1`] = `
                   </svg>
                 </a>
                 <a
+                  aria-label="social-li"
                   href="/"
                 >
                   <svg

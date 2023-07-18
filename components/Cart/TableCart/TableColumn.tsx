@@ -1,6 +1,6 @@
 // Libs
 import { Text, Th } from '@chakra-ui/react'
-import React from 'react'
+import React, { memo } from 'react'
 
 interface IProps {
   label: string
@@ -8,7 +8,7 @@ interface IProps {
   height?: string
 }
 
-const TableColumn = ({ label, width = 'full', height = '40px' }: IProps) => (
+const TableColumn = memo(({ label, width = 'full', height = '40px' }: IProps) => (
   <Th
     height={height}
     p={0}
@@ -22,6 +22,8 @@ const TableColumn = ({ label, width = 'full', height = '40px' }: IProps) => (
       {label}
     </Text>
   </Th>
-)
+))
+
+TableColumn.displayName = 'TableColumn'
 
 export default TableColumn

@@ -1,6 +1,7 @@
 import { Box } from '@chakra-ui/react'
 import React, { memo } from 'react'
 import NextImage from 'next/legacy/image'
+import { imageDataUrl } from '@utils/convertToBase64'
 
 interface IProps {
   width?: string | string[]
@@ -27,6 +28,8 @@ const Image = memo(({ width = '500px', height = '500px', alt, src, variant }: IP
       objectFit='cover'
       priority
       lazyBoundary='200px'
+      placeholder='blur'
+      blurDataURL={imageDataUrl(400, 300)}
       style={{
         width: '100%',
         height: 'auto',

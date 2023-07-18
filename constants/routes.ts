@@ -7,6 +7,7 @@ export const PAGE_URL = {
   SHIPPING: { TITLE: 'Shipping', URL: '/shipping' },
   GALLERY: { TITLE: 'Gallery', URL: '/gallery' },
   PRODUCT: { TITLE: 'Product', URL: '/product' },
+  COMINGSOON: { TITLE: 'ComingSoon', URL: '/comingsoon' },
 }
 
 export const PORT = process.env.NEXT_PUBLIC_PORT

@@ -91,12 +91,12 @@ const ProductPage = memo(({ products }: IProductPageProps): JSX.Element => {
           height='100vh'
         >
           <Suspense fallback={<Loading />}>
-            <FilterProduct products={products} />
+            <FilterProduct products={filteredProducts} />
           </Suspense>
         </GridItem>
         <GridItem rowSpan={1} colSpan={[4, 3, 3]}>
           <Suspense fallback={<Loading />}>
-            <ListProducts products={products} productsNotFound={productsNotFound} />
+            <ListProducts products={filteredProducts} productsNotFound={productsNotFound} />
           </Suspense>
         </GridItem>
       </Grid>

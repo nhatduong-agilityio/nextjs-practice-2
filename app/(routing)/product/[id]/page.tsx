@@ -5,7 +5,7 @@ import { ProductsMock } from '@mock/dataMock'
 import type { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { notFound } from 'next/navigation'
-import { Suspense, cache } from 'react'
+import { Suspense } from 'react'
 
 const ProductDetailPage = dynamic(() => import('./ProductDetailPage'))
 
@@ -21,13 +21,13 @@ export async function generateStaticParams() {
   }))
 }
 
-const getProduct = cache(async (params: { id: string }) => {
+const getProduct = async (params: { id: string }) => {
   const products: TProducts = await ProductsMock
 
   const matchedProduct = products.find((product) => product.id === params.id)
 
   return matchedProduct
-})
+}
 
 export const generateMetadata = async (props: Props): Promise<Metadata> => {
   const { params } = props
@@ -59,7 +59,7 @@ export const generateMetadata = async (props: Props): Promise<Metadata> => {
 }
 
 const ProductDetail = async ({ params }: Props) => {
-  const product = await getProduct(params)
+  const product = await getProduct(params || { id: '' })
 
   if (!product || Object.keys(product).length === 0) {
     notFound()

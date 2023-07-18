@@ -48,7 +48,6 @@ Web application for furniture marketplace:
 - [Prettier](https://prettier.io/).
 - [Eslint](https://eslint.org/).
 - [Husky](https://typicode.github.io/husky/#/).
-- [SWR](https://swr.vercel.app/docs/getting-started).
 
 ### ENVIRONMENT
 

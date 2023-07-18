@@ -4,6 +4,7 @@ import Home from '../app/(routing)/page'
 
 jest.mock('@services/requests', () => ({
   fetcherInstance: jest.fn(),
+  fetcherInstanceAPI: jest.fn(),
 }))
 
 jest.mock('next/navigation', () => ({

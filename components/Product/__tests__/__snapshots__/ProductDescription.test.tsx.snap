@@ -15,7 +15,7 @@ exports[`ProductDescription render Should ProductDescription match Snapshot 1`] 
         Item Detail
       </h2>
       <p
-        class="chakra-text css-wndv73"
+        class="chakra-text css-asz83u"
       >
         Product description mock
       </p>
@@ -31,7 +31,7 @@ exports[`ProductDescription render Should ProductDescription match Snapshot 1`] 
           class="css-1cr0hgh"
         >
           <p
-            class="chakra-text css-1nhs1l6"
+            class="chakra-text css-1l9mnve"
           >
             High Quality Leathers4
           </p>
@@ -40,7 +40,7 @@ exports[`ProductDescription render Should ProductDescription match Snapshot 1`] 
           class="css-1cr0hgh"
         >
           <p
-            class="chakra-text css-1nhs1l6"
+            class="chakra-text css-1l9mnve"
           >
             High Quality Paints4
           </p>

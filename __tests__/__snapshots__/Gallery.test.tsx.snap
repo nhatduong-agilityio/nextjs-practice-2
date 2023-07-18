@@ -21,7 +21,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-1lz6fgg"
       >
         <a
-          href="/gallery/794b844d-d446-4146-a46f-1ab4026cef7c"
+          href="/gallery/bd353da4-a037-4b9a-b233-c044d3941d67"
         >
           <div
             class="css-ackq5e"
@@ -33,11 +33,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture chair and table office"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-1.jpg%3Falt%3Dmedia%26token%3Dc1a5e572-6861-4b4d-86da-b047368f8a2c&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -46,7 +47,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-2bei10"
       >
         <a
-          href="/gallery/4cf37407-6fc0-4b05-99ca-df755ab5546a"
+          href="/gallery/d904c2e1-7fe9-4246-8d42-fb61686c3fea"
         >
           <div
             class="css-ackq5e"
@@ -58,11 +59,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture desk office"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-2.jpg%3Falt%3Dmedia%26token%3De8e0d53b-a13f-4d97-84b3-a0768d732c12&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -71,7 +73,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-15iqidc"
       >
         <a
-          href="/gallery/9b320e17-8e4a-4a31-9df0-4b8e994290e5"
+          href="/gallery/1f466305-307c-46f3-b1a7-9b65b7899953"
         >
           <div
             class="css-ackq5e"
@@ -83,11 +85,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture sofa"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-3.jpg%3Falt%3Dmedia%26token%3Da65665dd-db86-475c-ad2f-0e7c16bd2815&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -96,7 +99,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-nrxmu7"
       >
         <a
-          href="/gallery/05e112cf-5cd7-4f39-94f4-c037e8c107e5"
+          href="/gallery/3b711766-434e-4b04-8683-07f13a09e6d6"
         >
           <div
             class="css-ackq5e"
@@ -108,11 +111,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture chair and table office2"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Farticle-4.jpg%3Falt%3Dmedia%26token%3D7bfd6950-78f0-4dba-a072-3f0527e0ca25&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -121,7 +125,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-1xz837u"
       >
         <a
-          href="/gallery/19433980-b25f-451a-94fe-2aad166ea563"
+          href="/gallery/bea506c0-e865-46a8-95e1-f2f575790f8f"
         >
           <div
             class="css-ackq5e"
@@ -133,11 +137,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture desk office2"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fdesk.jpg%3Falt%3Dmedia%26token%3D2dfeecf5-d39f-4ade-b035-cd782e8517e0&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -146,7 +151,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-plg8k9"
       >
         <a
-          href="/gallery/f2ccf7e5-5723-4298-a9e5-c5213f6b37c1"
+          href="/gallery/b37493e9-bfc2-4e24-b527-7cb742b90cb5"
         >
           <div
             class="css-ackq5e"
@@ -158,11 +163,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture sofa2"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -171,7 +177,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-4gox30"
       >
         <a
-          href="/gallery/9e155b22-df51-4b2c-b91d-07a9ac68678b"
+          href="/gallery/f68775b8-ff0a-4b6a-b270-61be549aaf79"
         >
           <div
             class="css-ackq5e"
@@ -183,11 +189,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture chair and table office3"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcupboard.jpg%3Falt%3Dmedia%26token%3D6694692a-d03e-41d0-9a2c-f3dd7bd546a4&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -196,7 +203,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-18i2y6i"
       >
         <a
-          href="/gallery/d04939c7-522a-4690-baed-4235e29835ca"
+          href="/gallery/48cff1cf-6078-42c3-9e66-6260cab06e6f"
         >
           <div
             class="css-ackq5e"
@@ -208,11 +215,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture desk office3"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Freading-chair.jpg%3Falt%3Dmedia%26token%3Dc3ef931d-0ace-4ba1-b7b9-84806972c3da&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -221,7 +229,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-ku5lu7"
       >
         <a
-          href="/gallery/a2078a47-dc28-4fdf-a0b5-1e01d7b0852c"
+          href="/gallery/cb1ca720-1c3b-4c82-8050-89eb716ed09f"
         >
           <div
             class="css-ackq5e"
@@ -233,11 +241,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture sofa3"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fspringbed.jpg%3Falt%3Dmedia%26token%3D0a8d06c7-a0b4-4b6f-86a9-27682c450217&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -246,7 +255,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-hfwe92"
       >
         <a
-          href="/gallery/2fffc81d-747e-481e-9eb6-926d77322565"
+          href="/gallery/1f14b3e5-b1fd-453a-b5f8-eb875e71b6c5"
         >
           <div
             class="css-ackq5e"
@@ -258,11 +267,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture chair and table office4"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3D74327cb3-d85e-45a3-bfb5-b01010c77e3b&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -271,7 +281,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-hfwe92"
       >
         <a
-          href="/gallery/16c27b1d-8cde-41bd-8a89-2419aa9bb28f"
+          href="/gallery/41ad8e5e-1823-4f9a-a883-ed802478a0b4"
         >
           <div
             class="css-ackq5e"
@@ -283,11 +293,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture desk office4"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>
@@ -296,7 +307,7 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
         class="css-1803f6"
       >
         <a
-          href="/gallery/2522be73-ee1d-4f5d-a216-8dd04d5da3b4"
+          href="/gallery/8a4b863c-70de-4dd4-8e11-65881ed7e491"
         >
           <div
             class="css-ackq5e"
@@ -308,11 +319,12 @@ exports[`Gallery Should Gallery match snapshot 1`] = `
                 alt="Picture of furniture sofa4"
                 data-nimg="fill"
                 decoding="async"
-                sizes="100vw"
-                src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=3840&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=3840&q=75 3840w"
+                style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
               />
+              <noscript />
             </span>
           </div>
         </a>

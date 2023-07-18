@@ -13,6 +13,7 @@ exports[`Header Should Header match Snapshot 1`] = `
         style="margin: 0px;"
       >
         <a
+          aria-label="brand-store"
           href="/"
         >
           <div
@@ -219,6 +220,7 @@ exports[`Header Should Header match Snapshot 1`] = `
         style="margin-top: 0px;"
       >
         <a
+          aria-label="cart"
           href="/"
         >
           <svg
@@ -254,6 +256,7 @@ exports[`Header Should Header match Snapshot 1`] = `
           </svg>
         </a>
         <a
+          aria-label="wishlist"
           href="/"
         >
           <svg
@@ -272,7 +275,7 @@ exports[`Header Should Header match Snapshot 1`] = `
           style="margin-top: 0px;"
         >
           <a
-            href="/"
+            href="/signin"
             style="width: 100%;"
           >
             <button
@@ -283,7 +286,7 @@ exports[`Header Should Header match Snapshot 1`] = `
             </button>
           </a>
           <a
-            href="/"
+            href="/signin"
             style="width: 100%;"
           >
             <button

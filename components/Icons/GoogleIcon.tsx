@@ -1,9 +1,9 @@
 // Libs
-import React from 'react'
+import React, { memo } from 'react'
 import type { IconProps } from '@chakra-ui/react'
 import { Icon } from '@chakra-ui/react'
 
-const GoogleIcon = (propsIcon: IconProps) => (
+const GoogleIcon = memo((propsIcon: IconProps) => (
   <Icon {...propsIcon}>
     <path
       d='M14.537 6.69437H14V6.66671H7.99998V9.33337H11.7676C11.218 10.8857 9.74098 12 7.99998 12C5.79098 12 3.99998 10.209 3.99998 8.00004C3.99998 5.79104 5.79098 4.00004 7.99998 4.00004C9.01965 4.00004 9.94731 4.38471 10.6536 5.01304L12.5393 3.12737C11.3486 2.01771 9.75598 1.33337 7.99998 1.33337C4.31831 1.33337 1.33331 4.31837 1.33331 8.00004C1.33331 11.6817 4.31831 14.6667 7.99998 14.6667C11.6816 14.6667 14.6666 11.6817 14.6666 8.00004C14.6666 7.55304 14.6206 7.11671 14.537 6.69437Z'
@@ -22,7 +22,7 @@ const GoogleIcon = (propsIcon: IconProps) => (
       fill='white'
     />
   </Icon>
-)
+))
 
 GoogleIcon.displayName = 'GoogleIcon'
 

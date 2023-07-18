@@ -701,7 +701,7 @@ exports[`FilterProduct render Should FilterProduct match Snapshot 1`] = `
                   href="/product?category=Carpet"
                 >
                   <button
-                    class="chakra-button css-1kezzwz"
+                    class="chakra-button css-1nzk6tf"
                     style="padding-inline: 0;"
                     type="button"
                   >

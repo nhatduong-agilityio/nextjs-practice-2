@@ -1,9 +1,9 @@
 // Libs
-import React from 'react'
+import React, { memo } from 'react'
 import type { IconProps } from '@chakra-ui/react'
 import { Icon } from '@chakra-ui/react'
 
-const ArrowForwardIcon = (propsIcon: IconProps) => (
+const ArrowForwardIcon = memo((propsIcon: IconProps) => (
   <Icon {...propsIcon}>
     <path
       fillRule='evenodd'
@@ -16,7 +16,7 @@ const ArrowForwardIcon = (propsIcon: IconProps) => (
       d='M13.8131 5.45047C13.8723 5.39136 13.9193 5.32115 13.9514 5.24385C13.9835 5.16655 14 5.08368 14 4.99998C14 4.91629 13.9835 4.83342 13.9514 4.75612C13.9193 4.67882 13.8723 4.6086 13.8131 4.5495L9.99539 0.73182C9.87592 0.612344 9.71387 0.545223 9.54491 0.545223C9.37594 0.545223 9.2139 0.612344 9.09442 0.73182C8.97494 0.851296 8.90782 1.01334 8.90782 1.18231C8.90782 1.35127 8.97494 1.51332 9.09442 1.63279L12.4629 4.99998L9.09442 8.36717C8.97494 8.48665 8.90782 8.64869 8.90782 8.81766C8.90782 8.98662 8.97494 9.14867 9.09442 9.26814C9.2139 9.38762 9.37594 9.45474 9.54491 9.45474C9.71387 9.45474 9.87592 9.38762 9.99539 9.26814L13.8131 5.45047Z'
     />
   </Icon>
-)
+))
 
 ArrowForwardIcon.displayName = 'ArrowForwardIcon'
 

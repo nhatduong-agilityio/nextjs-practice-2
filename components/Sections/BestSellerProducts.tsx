@@ -1,7 +1,7 @@
 'use client'
 
 // Libs
-import React, { Fragment } from 'react'
+import React, { Fragment, memo } from 'react'
 import { Container, Heading, SimpleGrid, Stack, Text } from '@chakra-ui/react'
 import NextLink from 'next/link'
 
@@ -10,18 +10,19 @@ import type { TProducts } from '@matched-types/product'
 
 // Components
 import ProductCard from '@components/Product/ProductCard'
+import { PAGE_URL } from '@constants/routes'
 
 interface IBestSellerProductsProps {
   products: TProducts
 }
 
-const BestSellerProducts = ({ products }: IBestSellerProductsProps) => (
+const BestSellerProducts = memo(({ products }: IBestSellerProductsProps) => (
   <Container as='section' maxW='full' p={['25px 20px', '50px 100px']}>
     <Stack flexDir='row' justifyContent='space-between' alignItems='center' mb={['20px', '50px']}>
       <Heading variant={['extraBoldMD', 'extraBoldXL']} lineHeight='normal'>
-        Bed Seller
+        Best Seller
       </Heading>
-      <NextLink href='/' passHref>
+      <NextLink href={PAGE_URL.PRODUCT.URL} passHref>
         <Text size={['14', '20']} fontWeight='SemiBold'>
           See All
         </Text>
@@ -35,6 +36,8 @@ const BestSellerProducts = ({ products }: IBestSellerProductsProps) => (
       ))}
     </SimpleGrid>
   </Container>
-)
+))
+
+BestSellerProducts.displayName = 'BestSellerProducts'
 
 export default BestSellerProducts

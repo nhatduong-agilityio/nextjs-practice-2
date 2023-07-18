@@ -2,7 +2,7 @@ import type { RenderResult } from '@utils/testUtils'
 import { cleanup, render, waitFor } from '@utils/testUtils'
 import PaymentPage from '../app/(routing)/payment/PaymentPage'
 
-describe('WishListPage', () => {
+describe('PaymentPage', () => {
   global.fetch = jest.fn(() =>
     Promise.resolve({
       json: () => Promise.resolve(),
@@ -25,7 +25,7 @@ describe('WishListPage', () => {
     setup()
   })
 
-  it('Should WishListPage match snapshot', async () => {
+  it('Should PaymentPage match snapshot', async () => {
     const { container } = wrapper
 
     expect(container).toMatchSnapshot()

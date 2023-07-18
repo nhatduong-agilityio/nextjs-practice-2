@@ -57,7 +57,7 @@ const SignInPage = () => {
           const response = await signIn(data)
 
           if (response.id) {
-            router.push(PAGE_URL.HOME.URL)
+            router.push(PAGE_URL.COMINGSOON.URL)
           }
 
           const responseError = response as unknown as {

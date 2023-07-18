@@ -10,7 +10,7 @@ export default meta
 
 const image = {
   image:
-    'https://firebasestorage.googleapis.com/v0/b/shop-bag-f4624.appspot.com/o/images%2Ffurniture-1.jpg?alt=media&token=80498422-2aa7-4cca-8888-ab8cd598aeb9',
+    'https://firebasestorage.googleapis.com/v0/b/shop-bag-ffd59.appspot.com/o/images%2Fchair-yellow.jpg?alt=media&token=9171655e-4a37-4922-aff2-69a0bbcf7d51',
   imageAlt: 'Picture of furniture chair leather',
 }
 

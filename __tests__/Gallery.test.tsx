@@ -11,6 +11,7 @@ jest.mock('next/navigation', () => ({
 
 jest.mock('@services/requests', () => ({
   fetcherInstance: jest.fn(),
+  fetcherInstanceAPI: jest.fn(),
 }))
 
 jest.doMock('../app/(routing)/gallery/GalleryPage.tsx', () => {

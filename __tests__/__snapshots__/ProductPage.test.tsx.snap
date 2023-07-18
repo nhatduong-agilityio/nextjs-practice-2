@@ -726,7 +726,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                         href="/product?category=Carpet"
                       >
                         <button
-                          class="chakra-button css-1kezzwz"
+                          class="chakra-button css-1nzk6tf"
                           style="padding-inline: 0;"
                           type="button"
                         >
@@ -895,7 +895,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 </button>
               </div>
               <a
-                href="/product/bf0d4c4d-1c25-4552-84b0-d28afe3d5353"
+                href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff6123"
               >
                 <div
                   class="css-rsaa23"
@@ -904,14 +904,15 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
                   >
                     <img
-                      alt="Picture of Full set Grey Sofa With Pillows"
+                      alt="Picture of Green Slepper Sofa"
                       data-nimg="fill"
                       decoding="async"
-                      sizes="100vw"
-                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                      src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=3840&q=75"
+                      srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fsofa-green.jpg%3Falt%3Dmedia%26token%3Dc2479cc5-ceb6-414f-bc97-5113599d35a5&w=3840&q=75 3840w"
+                      style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
                     />
+                    <noscript />
                   </span>
                 </div>
               </a>
@@ -923,7 +924,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 class="css-0"
               >
                 <a
-                  href="/product/bf0d4c4d-1c25-4552-84b0-d28afe3d5353"
+                  href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff6123"
                 >
                   <h2
                     class="chakra-heading css-10zd33"
@@ -985,7 +986,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     />
                   </svg>
                   <p
-                    class="chakra-text css-1sm3jcj"
+                    class="chakra-text css-19mm79y"
                   >
                     (
                     400
@@ -1059,7 +1060,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 </button>
               </div>
               <a
-                href="/product/ada413d7-ce46-485c-800f-896c6397f0d8"
+                href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff345"
               >
                 <div
                   class="css-rsaa23"
@@ -1068,14 +1069,15 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
                   >
                     <img
-                      alt="Picture of Full set Grey Sofa With Pillow"
+                      alt="Picture of Yellow Chair X Banana Kitty"
                       data-nimg="fill"
                       decoding="async"
-                      sizes="100vw"
-                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                      src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=3840&q=75"
+                      srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fchair-yellow.jpg%3Falt%3Dmedia%26token%3D9171655e-4a37-4922-aff2-69a0bbcf7d51&w=3840&q=75 3840w"
+                      style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
                     />
+                    <noscript />
                   </span>
                 </div>
               </a>
@@ -1087,7 +1089,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 class="css-0"
               >
                 <a
-                  href="/product/ada413d7-ce46-485c-800f-896c6397f0d8"
+                  href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff345"
                 >
                   <h2
                     class="chakra-heading css-10zd33"
@@ -1149,7 +1151,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     />
                   </svg>
                   <p
-                    class="chakra-text css-1sm3jcj"
+                    class="chakra-text css-19mm79y"
                   >
                     (
                     400
@@ -1166,13 +1168,13 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     412.41
                   </p>
                   <del
-                    class="chakra-text css-bd8jqh"
+                    class="chakra-text css-bjvkpd"
                   >
                     $
                     699
                   </del>
                   <p
-                    class="chakra-text css-cntrqi"
+                    class="chakra-text css-65pk9j"
                   >
                     -
                     41
@@ -1236,7 +1238,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 </button>
               </div>
               <a
-                href="/product/a4240a07-241c-492d-828c-389d183487a6"
+                href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff567"
               >
                 <div
                   class="css-rsaa23"
@@ -1248,11 +1250,12 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                       alt="Picture of Full set Grey Sofa With Pillow"
                       data-nimg="fill"
                       decoding="async"
-                      sizes="100vw"
-                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                      src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=3840&q=75"
+                      srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbg-hero.png%3Falt%3Dmedia%26token%3Dc2146a23-01bf-4394-af0d-ccbe6aff7b36&w=3840&q=75 3840w"
+                      style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
                     />
+                    <noscript />
                   </span>
                 </div>
               </a>
@@ -1264,7 +1267,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 class="css-0"
               >
                 <a
-                  href="/product/a4240a07-241c-492d-828c-389d183487a6"
+                  href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff567"
                 >
                   <h2
                     class="chakra-heading css-10zd33"
@@ -1326,7 +1329,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     />
                   </svg>
                   <p
-                    class="chakra-text css-1sm3jcj"
+                    class="chakra-text css-19mm79y"
                   >
                     (
                     400
@@ -1343,13 +1346,13 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     795.4
                   </p>
                   <del
-                    class="chakra-text css-bd8jqh"
+                    class="chakra-text css-bjvkpd"
                   >
                     $
                     820
                   </del>
                   <p
-                    class="chakra-text css-cntrqi"
+                    class="chakra-text css-65pk9j"
                   >
                     -
                     3
@@ -1413,7 +1416,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 </button>
               </div>
               <a
-                href="/product/47cc1aa6-5313-471d-a95c-82659809e67f"
+                href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff789"
               >
                 <div
                   class="css-rsaa23"
@@ -1422,14 +1425,15 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     style="box-sizing: border-box; display: block; overflow: hidden; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px;"
                   >
                     <img
-                      alt="Picture of Full set Grey Sofa"
+                      alt="Picture of Winter Carpet"
                       data-nimg="fill"
                       decoding="async"
-                      sizes="100vw"
-                      src="/_next/image?url=%2Fimg.jpg&w=3840&q=75"
-                      srcset="/_next/image?url=%2Fimg.jpg&w=640&q=75 640w, /_next/image?url=%2Fimg.jpg&w=750&q=75 750w, /_next/image?url=%2Fimg.jpg&w=828&q=75 828w, /_next/image?url=%2Fimg.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimg.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimg.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimg.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimg.jpg&w=3840&q=75 3840w"
-                      style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"
+                      sizes="(max-width: 1440px) 100vw, (max-width: 1536px) 50vw, 33vw"
+                      src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=3840&q=75"
+                      srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fcarpet.jpg%3Falt%3Dmedia%26token%3Dec0868f8-5a5a-4603-9a6a-e353c4787903&w=3840&q=75 3840w"
+                      style="width: 0px; height: 0px; position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover; background-size: cover; background-position: 0% 0%; filter: blur(20px); background-image: url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjY2NjIiBvZmZzZXQ9IjIwJSIgLz4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI2NjYyIgb2Zmc2V0PSI1MCUiIC8+CiAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNjY2MiIG9mZnNldD0iNzAlIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiNjY2MiIC8+CiAgPHJlY3QgaWQ9InIiIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2cpIiAvPgogIDxhbmltYXRlIHhsaW5rOmhyZWY9IiNyIiBhdHRyaWJ1dGVOYW1lPSJ4IiBmcm9tPSItNDAwIiB0bz0iNDAwIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgIC8+Cjwvc3ZnPg==);"
                     />
+                    <noscript />
                   </span>
                 </div>
               </a>
@@ -1441,12 +1445,12 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                 class="css-0"
               >
                 <a
-                  href="/product/47cc1aa6-5313-471d-a95c-82659809e67f"
+                  href="/product/40e74e5f-d9c1-4469-a1ed-9e35a6dff789"
                 >
                   <h2
                     class="chakra-heading css-10zd33"
                   >
-                    Fullset Grey Sofa
+                    Winter Carpet
                   </h2>
                 </a>
                 <div
@@ -1503,7 +1507,7 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     />
                   </svg>
                   <p
-                    class="chakra-text css-1sm3jcj"
+                    class="chakra-text css-19mm79y"
                   >
                     (
                     400
@@ -1520,13 +1524,13 @@ exports[`ProductPage Should ProductPage match snapshot 1`] = `
                     795.4
                   </p>
                   <del
-                    class="chakra-text css-bd8jqh"
+                    class="chakra-text css-bjvkpd"
                   >
                     $
                     820
                   </del>
                   <p
-                    class="chakra-text css-cntrqi"
+                    class="chakra-text css-65pk9j"
                   >
                     -
                     3

@@ -1,9 +1,9 @@
 // Libs
-import React from 'react'
+import React, { memo } from 'react'
 import type { IconProps } from '@chakra-ui/react'
 import { Icon } from '@chakra-ui/react'
 
-const HeartIcon = (propsIcon: IconProps) => (
+const HeartIcon = memo((propsIcon: IconProps) => (
   <Icon {...propsIcon}>
     <circle cx='15' cy='15' r='15' fill='white' strokeWidth='0' />
     <g clipPath='url(#clip0_187_701)'>
@@ -19,7 +19,7 @@ const HeartIcon = (propsIcon: IconProps) => (
       </clipPath>
     </defs>
   </Icon>
-)
+))
 
 HeartIcon.displayName = 'HeartIcon'
 

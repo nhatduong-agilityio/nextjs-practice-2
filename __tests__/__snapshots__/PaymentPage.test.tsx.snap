@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`WishListPage Should WishListPage match snapshot 1`] = `
+exports[`PaymentPage Should PaymentPage match snapshot 1`] = `
 <div>
   <div
     class="css-2nkcax"
@@ -57,8 +57,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Alfa Mart"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Falfa-mart.png%3Falt%3Dmedia%26token%3D1c0b2cba-977f-402d-a457-132d103de31b&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Falfa-mart.png%3Falt%3Dmedia%26token%3D1c0b2cba-977f-402d-a457-132d103de31b&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Falfa-mart.png%3Falt%3Dmedia%26token%3D1c0b2cba-977f-402d-a457-132d103de31b&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -89,8 +89,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Indo Maret"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Findomaret.png%3Falt%3Dmedia%26token%3D651463b6-7b3d-44ac-a038-28aff66b4fbd&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Findomaret.png%3Falt%3Dmedia%26token%3D651463b6-7b3d-44ac-a038-28aff66b4fbd&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Findomaret.png%3Falt%3Dmedia%26token%3D651463b6-7b3d-44ac-a038-28aff66b4fbd&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -135,8 +135,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Go Pay"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fgopay.png%3Falt%3Dmedia%26token%3Df2138737-db02-4422-98ab-0fa3c0bfffad&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fgopay.png%3Falt%3Dmedia%26token%3Df2138737-db02-4422-98ab-0fa3c0bfffad&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-f4624.appspot.com%2Fo%2Fimages%252Fgopay.png%3Falt%3Dmedia%26token%3Df2138737-db02-4422-98ab-0fa3c0bfffad&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -167,8 +167,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Ovo"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fovo.png%3Falt%3Dmedia%26token%3Dcf38fe11-dc6e-448a-bcd4-ec918a0535e4&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fovo.png%3Falt%3Dmedia%26token%3Dcf38fe11-dc6e-448a-bcd4-ec918a0535e4&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fovo.png%3Falt%3Dmedia%26token%3Dcf38fe11-dc6e-448a-bcd4-ec918a0535e4&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -199,8 +199,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Link Aja"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Flink-aja.png%3Falt%3Dmedia%26token%3D209d51fd-b7d3-412c-afb9-f92bbb896d33&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Flink-aja.png%3Falt%3Dmedia%26token%3D209d51fd-b7d3-412c-afb9-f92bbb896d33&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Flink-aja.png%3Falt%3Dmedia%26token%3D209d51fd-b7d3-412c-afb9-f92bbb896d33&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -245,8 +245,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Bca Bank"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbca-bank.png%3Falt%3Dmedia%26token%3Dfbadf89a-1723-4760-868b-faa407bd004a&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbca-bank.png%3Falt%3Dmedia%26token%3Dfbadf89a-1723-4760-868b-faa407bd004a&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbca-bank.png%3Falt%3Dmedia%26token%3Dfbadf89a-1723-4760-868b-faa407bd004a&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -277,8 +277,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Mandiri Bank"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fmandiri-bank.png%3Falt%3Dmedia%26token%3D7d9fd118-5cba-484b-a775-81372ffd92c8&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fmandiri-bank.png%3Falt%3Dmedia%26token%3D7d9fd118-5cba-484b-a775-81372ffd92c8&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fmandiri-bank.png%3Falt%3Dmedia%26token%3D7d9fd118-5cba-484b-a775-81372ffd92c8&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -309,8 +309,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Bri Bank"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbri-bank.png%3Falt%3Dmedia%26token%3D637eb850-660a-4d5c-ac4d-7db1844a8d87&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbri-bank.png%3Falt%3Dmedia%26token%3D637eb850-660a-4d5c-ac4d-7db1844a8d87&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fbri-bank.png%3Falt%3Dmedia%26token%3D637eb850-660a-4d5c-ac4d-7db1844a8d87&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>
@@ -355,8 +355,8 @@ exports[`WishListPage Should WishListPage match snapshot 1`] = `
                 alt="Logo brand of Paypal"
                 data-nimg="fixed"
                 decoding="async"
-                src="/_next/image?url=%2Fimg.jpg&w=256&q=75"
-                srcset="/_next/image?url=%2Fimg.jpg&w=128&q=75 1x, /_next/image?url=%2Fimg.jpg&w=256&q=75 2x"
+                src="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fpaypal.png%3Falt%3Dmedia%26token%3D300e38ad-6415-44b4-b44e-095012e3fb9c&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fpaypal.png%3Falt%3Dmedia%26token%3D300e38ad-6415-44b4-b44e-095012e3fb9c&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshop-bag-ffd59.appspot.com%2Fo%2Fimages%252Fpaypal.png%3Falt%3Dmedia%26token%3D300e38ad-6415-44b4-b44e-095012e3fb9c&w=256&q=75 2x"
                 style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"
               />
             </span>

@@ -1,6 +1,6 @@
 import { Box, Button } from '@chakra-ui/react'
 import NextLink from 'next/link'
-import React from 'react'
+import React, { memo } from 'react'
 import type { UrlObject } from 'url'
 
 interface IButtonLinkProps {
@@ -9,7 +9,7 @@ interface IButtonLinkProps {
   name: string | number
 }
 
-const ButtonLink = ({ href, active, name }: IButtonLinkProps) => (
+const ButtonLink = memo(({ href, active, name }: IButtonLinkProps) => (
   <Box w='full' pt='15px' pl='30px'>
     <NextLink href={href} passHref>
       <Button
@@ -29,6 +29,8 @@ const ButtonLink = ({ href, active, name }: IButtonLinkProps) => (
       </Button>
     </NextLink>
   </Box>
-)
+))
+
+ButtonLink.displayName = 'ButtonLink'
 
 export default ButtonLink

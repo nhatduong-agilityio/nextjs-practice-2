@@ -1,5 +1,5 @@
 // Libs
-import React from 'react'
+import React, { memo } from 'react'
 import {
   Card as ChakraCard,
   CardBody,
@@ -28,7 +28,7 @@ interface IProps {
   pathLink?: string
 }
 
-const ArticleCard = ({ item, pathLink }: IProps) => (
+const ArticleCard = memo(({ item, pathLink }: IProps) => (
   <ChakraCard boxShadow='none'>
     <CardHeader p={0} flexDir='row'>
       <Image
@@ -66,6 +66,8 @@ const ArticleCard = ({ item, pathLink }: IProps) => (
       </VStack>
     </CardBody>
   </ChakraCard>
-)
+))
+
+ArticleCard.displayName = 'ArticleCard'
 
 export default ArticleCard

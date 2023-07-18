@@ -1,5 +1,8 @@
 import type { RenderResult } from '@utils/testUtils'
 import { cleanup, render, waitFor } from '@utils/testUtils'
+import type { TProducts } from '@matched-types/product'
+import { ProductsMock } from '@mock/dataMock'
+import ProductPage from '../app/(routing)/product/ProductPage'
 import Product from '../app/(routing)/product/page'
 
 jest.mock('next/navigation', () => ({
@@ -7,11 +10,18 @@ jest.mock('next/navigation', () => ({
   useSearchParams: jest.fn(),
 }))
 
+jest.doMock('../app/(routing)/product/ProductPage.tsx', () => {
+  const ProductPageMock = () => <ProductPage products={ProductsMock || ({} as TProducts)} />
+  return ProductPageMock
+})
+
 describe('Product', () => {
   let wrapper: RenderResult
 
   const setup = async () => {
-    const view = render(<Product />)
+    const element = await Product()
+
+    const view = render(element)
 
     await waitFor(() => {
       wrapper = view

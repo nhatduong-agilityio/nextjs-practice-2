@@ -1,6 +1,6 @@
 // Libs
 import { Button, ButtonGroup as ChakraButtonGroup } from '@chakra-ui/react'
-import React from 'react'
+import React, { memo } from 'react'
 import NextLink from 'next/link'
 
 interface IProps {
@@ -10,7 +10,7 @@ interface IProps {
   lastPath?: string
 }
 
-const ButtonGroup = ({ firstName, lastName, firstPath, lastPath }: IProps) => (
+const ButtonGroup = memo(({ firstName, lastName, firstPath, lastPath }: IProps) => (
   <ChakraButtonGroup
     width={['full', '50%']}
     flexDir={['column', 'row-reverse']}
@@ -28,6 +28,8 @@ const ButtonGroup = ({ firstName, lastName, firstPath, lastPath }: IProps) => (
       </Button>
     </NextLink>
   </ChakraButtonGroup>
-)
+))
+
+ButtonGroup.displayName = 'ButtonGroup'
 
 export default ButtonGroup

@@ -7,6 +7,7 @@ exports[`Navigation render Should Navigation match Snapshot 1`] = `
     style="margin-top: 0px;"
   >
     <a
+      aria-label="cart"
       href="/"
     >
       <svg
@@ -42,6 +43,7 @@ exports[`Navigation render Should Navigation match Snapshot 1`] = `
       </svg>
     </a>
     <a
+      aria-label="wishlist"
       href="/"
     >
       <svg
@@ -60,7 +62,7 @@ exports[`Navigation render Should Navigation match Snapshot 1`] = `
       style="margin-top: 0px;"
     >
       <a
-        href="/"
+        href="/signin"
         style="width: 100%;"
       >
         <button
@@ -71,7 +73,7 @@ exports[`Navigation render Should Navigation match Snapshot 1`] = `
         </button>
       </a>
       <a
-        href="/"
+        href="/signin"
         style="width: 100%;"
       >
         <button
